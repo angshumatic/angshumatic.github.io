@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Closing the loop: Supply chains for circular economies
+title: Closing the loop - Supply chains for circular economies
 date: 2020-11-11T20:20:46.000Z
 ---
-# Closing the loop: Supply chains for circular economies
+# Closing the loop - Supply chains for circular economies
 
 
 ## Human Consumption: A Double-Edged Sword
