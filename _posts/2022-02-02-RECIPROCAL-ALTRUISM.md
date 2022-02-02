@@ -6,6 +6,7 @@ date: 2021-05-06T20:20:46.000Z
 
 # Reciprocal altruism – An economist’s magic wand for building trust
 
+*This essay was selected among the Top 100 international contributions from the Leaders of Tomorrow (LoT) through the Global Essay Competition (GEC) on the theme "Trust Matters" at the [50th St Gallen Symposium 2021](https://www.symposium.org/) conducted virtually from the University of St Gallen, Switzerland on 5-7 May.*
 
 ## Introduction
 
