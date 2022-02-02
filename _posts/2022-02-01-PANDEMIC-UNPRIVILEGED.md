@@ -4,6 +4,8 @@ title: The Pandemic of the Unprivileged
 date: 2022-01-15T20:20:46.000Z
 ---
 
+# The Pandemic of the Unprivileged
+
 ## Introduction
 
 Cataclysmic disasters are not always global in the true sense of the term. Our familiarity with natural calamities mostly involves a period of intense loss and disruption to normal life within one geographic region. It is after a very long time that the civilized and globalized world has come to face a challenge where no geographical boundaries could be drawn, and the direct duration was so prolonged that a new and permanent normal is now being spoken of. However, in labeling the COVID pandemic as a global phenomenon which uniformly spares no one, there is the chance of missing the devil which lies in the details. It merits some emphasis to understand the dynamics of the pandemic's impact with some granularity, and if it truly has been equal to all.
