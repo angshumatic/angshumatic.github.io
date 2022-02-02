@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Modernizing the Rural Supply Chain - Feeding those who feed us
-date: 2020-11-11T20:20:46.000Z
+date: 2020-08-05T20:20:46.000Z
 ---
 # Modernizing the Rural Supply Chain - Feeding those who feed us
 
