@@ -6,7 +6,7 @@ date: 2022-01-15T20:20:46.000Z
 
 # The Pandemic of the Unprivileged
 
-![COVID Pandemic Image](/angshumatic/images/pandemicunprivileged.jpg)
+![pandemicunprivileged](https://user-images.githubusercontent.com/98811198/152400241-3b90877b-a164-4ef3-bd52-cbb6b16f03fc.jpg)
 
 ## Introduction
 
