@@ -1,6 +1,4 @@
-![profilepic](https://user-images.githubusercontent.com/98811198/152400615-dcfe016d-f6d8-4f0e-8bf0-e39ec133b73c.JPG)
-
-Hello, and welcome to my world. My name is Angshuman, and I live in Kolkata, India.
+Hello, and welcome to my world. My name is Angshuman, and I live in Kolkata, India.<img src="https://user-images.githubusercontent.com/98811198/152400615-dcfe016d-f6d8-4f0e-8bf0-e39ec133b73c.JPG" width="300" align="right">
 
 I am a consultant by profession, currently working with the Advisory team at PricewaterhouseCoopers (PwC) India. I am a business graduate from XLRI Xavier School of Management, Jamshedpur, with a major in Decision Sciences & Operations. I also have a degree in Mechanical Engineering from Jadavpur University, Kolkata, and have priorly worked as an Operations Engineer with The Linde Group, in the chemicals manufacturing industry.
 
