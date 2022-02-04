@@ -13,7 +13,7 @@
 __PricewaterhouseCoopers (PwC) India__<br/>
 *Associate, Technology Consulting (Advisory)*<br/>
 `July 2021 - present`<br/>
-<font size="5">Business Analyst in Defence Tech & Automation sector.</font><br/>
+<font size="2">Business Analyst in Defence Tech & Automation sector.</font><br/>
 
 
 __Linde India Limited__<br/>
@@ -23,7 +23,7 @@ Shift Operations Lead & Functional Head (Mechanical). Executed cryogenic product
 
 
 
-<font size="5"> <span style="font-family:Courier New;">Education</span> </font><br/>
+<font size="5"> <span style="font-family:Courier New;">Education</span> </font>
 
 __XLRI Xavier School of Management, Jamshedpur__<br/>
 PGDM (Business Management)<br/>
