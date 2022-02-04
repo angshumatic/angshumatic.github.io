@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: angshumanpalcv
+title: Resume
 ---
 # Angshuman Pal
 Consultant at PricewaterhouseCoopers India
@@ -28,10 +28,14 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 ## Education
 
 `2019 - 2021`
-__XLRI Xavier School of Management, Jamshedpur__
+__XLRI Xavier School of Management, Jamshedpur__<br/>
+PGDM (Business Management)<br/>
+Major: *Decision Sciences & Operations* | GPA 6.057/8
 
 `2014 - 2018`
-__Jadavpur University, Kolkata__
+__Jadavpur University, Kolkata__<br/>
+BE (Mechanical Engineering)<br/>
+First Class (Honours) | GPA 8.82/10
 
 - Sizar
 
