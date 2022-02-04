@@ -2,8 +2,8 @@
 
 
 <p align="center">
-<font size="7"> <span style="font-family:Garamond;">Angshuman Pal!</span> </font><br/>
-Consultant at PricewaterhouseCoopers India
+<font size="7"> <span style="font-family:Courier New;">Angshuman Pal</span> </font><br/>
+<span style="font-family:Courier New;">Consultant at PricewaterhouseCoopers India</span>
 </p>
 
 
