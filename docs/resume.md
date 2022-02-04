@@ -3,8 +3,9 @@ layout: cv
 title: Curriculum Vitae
 ---
 
-p.ex1 {
-  padding-left: 50px;
+body {
+  display: block;
+  margin: 100px;
 }
 
 
