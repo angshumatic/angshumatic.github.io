@@ -3,7 +3,9 @@ layout: cv
 title: Curriculum Vitae
 ---
 
-document.getElementById("myDiv").style.margin = "50px 100px 20px 100px"; 
+p.ex1 {
+  padding-left: 50px;
+}
 
 
 # Angshuman Pal
