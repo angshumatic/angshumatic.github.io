@@ -3,10 +3,7 @@ layout: cv
 title: Curriculum Vitae
 ---
 
-body {
-  display: block;
-  margin: 100px;
-}
+<body style="margin:0 100px">
 
 
 # Angshuman Pal
