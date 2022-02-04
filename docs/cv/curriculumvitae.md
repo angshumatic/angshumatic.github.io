@@ -1,17 +1,16 @@
 # Curriculum Vitae
 
 <p align="center">
-<font size="5"> **Angshuman Pal** </font>
+<font size="7"> Angshuman Pal </font><br/>
 Consultant at PricewaterhouseCoopers India
-</p>
-
 <div id="webaddress">
 <a href="angshumanpal11@gmail.com">angshumanpal11@gmail.com</a>
 | <a href="https://www.linkedin.com/in/angshumanpal11/">LinkedIn</a>
 </div>
+</p>
 
 
-### Experience
+<font size="5"> Experience </font
 
 __PricewaterhouseCoopers (PwC) India__<br/>
 *Associate, Technology Consulting (Advisory)*<br/>
