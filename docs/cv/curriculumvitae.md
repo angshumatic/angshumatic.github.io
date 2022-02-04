@@ -13,7 +13,7 @@
 __PricewaterhouseCoopers (PwC) India__<br/>
 *Associate, Technology Consulting (Advisory)*<br/>
 `July 2021 - present`<br/>
-<font size="2">Business Analyst in Defence Tech & Automation sector.</font><br/>
+Business Analyst in Defence Tech & Automation sector.<br/>
 
 
 __Linde India Limited__<br/>
@@ -26,12 +26,12 @@ Shift Operations Lead & Functional Head (Mechanical). Executed cryogenic product
 <font size="5"> <span style="font-family:Courier New;">Education</span> </font>
 
 __XLRI Xavier School of Management, Jamshedpur__<br/>
-PGDM (Business Management)<br/>
+PGDM in Business Management<br/>
 `2019 - 2021`<br/>
 Major: *Decision Sciences & Operations* | GPA *6.057/8*
 
 __Jadavpur University, Kolkata__<br/>
-BE (Mechanical Engineering)<br/>
+BE in Mechanical Engineering<br/>
 `2014 - 2018`<br/>
 First Class (Honours) | GPA *8.82/10*
 
@@ -52,6 +52,7 @@ Pal B, **Pal A**, Das S, et al. (2020) "[Retrospective study on performance of c
 
 
 
+
 <font size="5"> <span style="font-family:Courier New;">Skills</span> </font>
         
 `R`, `MATLAB`, `SPSS`, `Minitab`, `LaTeX`, `Tableau`, `Advanced Excel`
@@ -59,20 +60,8 @@ Pal B, **Pal A**, Das S, et al. (2020) "[Retrospective study on performance of c
 
 
 
-<font size="5"> <span style="font-family:Courier New;">Leadership Positions</span> </font>
-    
-    
-__Impact Consulting, Kolkata Hub__<br/>
-*Business Development Manager*<br/>
-`June 2021 - present`
-
-__ISHRAE Jadavpur University__<br/>
-*Chapter President*<br/>
-`August 2016 - April 2018`
 
 
-    
-    
 
 <font size="5"> <span style="font-family:Courier New;">Internships</span> </font>
 
@@ -87,6 +76,23 @@ INAE Research Intern<br/>
 
 
 
+
+<font size="5"> <span style="font-family:Courier New;">Leadership Positions</span> </font>
+    
+__Impact Consulting, Kolkata Hub__<br/>
+*Business Development Manager*<br/>
+`June 2021 - present`
+
+__ISHRAE Jadavpur University__<br/>
+*Chapter President*<br/>
+`August 2016 - April 2018`
+
+
+
+
+
+
+
 <font size="5"> <span style="font-family:Courier New;">Awards</span> </font>
 
 *Leader of Tomorrow, SGS 2021*<br/>
@@ -96,6 +102,15 @@ INAE Research Intern<br/>
 *Student Delegate, INAE Youth Conclave 2018*<br/>
 Winner, INAE National Essay Competition<br/>
 `2018`
+
+
+
+
+
+<font size="5"> <span style="font-family:Courier New;">Test Scores</span> </font>
+
+`GRE: 327/340`, `TOEFL: 115/120`
+
 
 
     
