@@ -13,7 +13,7 @@
 __PricewaterhouseCoopers (PwC) India__<br/>
 *Associate, Technology Consulting (Advisory)*<br/>
 `July 2021 - present`<br/>
-Business Analyst in Defence Tech & Automation sector.<br/>
+<font size="5">Business Analyst in Defence Tech & Automation sector.</font><br/>
 
 
 __Linde India Limited__<br/>
