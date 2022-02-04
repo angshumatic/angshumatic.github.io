@@ -3,6 +3,9 @@
 <p align="center">
 <font size="7"> Angshuman Pal </font><br/>
 Consultant at PricewaterhouseCoopers India
+</p>
+
+<p align="center">
 <div id="webaddress">
 <a href="angshumanpal11@gmail.com">angshumanpal11@gmail.com</a>
 | <a href="https://www.linkedin.com/in/angshumanpal11/">LinkedIn</a>
@@ -17,14 +20,14 @@ Consultant at PricewaterhouseCoopers India
 __PricewaterhouseCoopers (PwC) India__<br/>
 *Associate, Technology Consulting (Advisory)*<br/>
 `July 2021 - present`<br/>
-<span style="font-family:Papyrus; font-size:0.5;">What I do at PwC</span>
+<font size="1"> What I do at PwC </font>
 
 
 
 __Linde India Limited__<br/>
 *O&M Engineer, Onsite Operations*<br/>
 `July 2018 - June 2019`<br/>
-
+<font size="1"> What I did at Linde </font>
     
 
     
@@ -89,11 +92,11 @@ INAE Research Intern<br/>
 
 <font size="5"> Awards </font>
 
-Leader of Tomorrow, SGS 2021<br/>
+*Leader of Tomorrow, SGS 2021*<br/>
 50th St Gallen Symposium, HSG Switzerland<br/>
 `2020`
 
-Student Delegate, INAE Youth Conclave 2018<br/>
+*Student Delegate, INAE Youth Conclave 2018*<br/>
 Winner, INAE National Essay Competition<br/>
 `2018`
 
