@@ -15,7 +15,12 @@ Consultant at PricewaterhouseCoopers India
 __PricewaterhouseCoopers (PwC) India__<br/>
 *Associate, Technology Consulting (Advisory)*<br/>
 `July 2021 - present`<br/>
-<span style="font-size:0.5;">What I do at PwC</span>
+<span style="font-family:Papyrus; font-size:0.5;">What I do at PwC</span>
+
+<p align="center">
+    // Trying alignment
+</p>
+
 
 __Linde India Limited__<br/>
 *O&M Engineer, Onsite Operations*<br/>
