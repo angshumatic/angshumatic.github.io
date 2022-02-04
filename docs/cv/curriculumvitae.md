@@ -1,16 +1,15 @@
 # Curriculum Vitae
 
-
-## Angshuman Pal
+<p align="center">
+<font size="5"> **Angshuman Pal** </font>
 Consultant at PricewaterhouseCoopers India
+</p>
 
 <div id="webaddress">
 <a href="angshumanpal11@gmail.com">angshumanpal11@gmail.com</a>
 | <a href="https://www.linkedin.com/in/angshumanpal11/">LinkedIn</a>
 </div>
 
-| Angshuman Pal |
-| :-----------: |
 
 ### Experience
 
@@ -20,10 +19,10 @@ __PricewaterhouseCoopers (PwC) India__<br/>
 <span style="font-family:Papyrus; font-size:0.5;">What I do at PwC</span>
 
 <p align="center">
-    // Trying alignment
+    Trying alignment
 </p>
 
- <font size="5"> Trying font sizes </font> 
+  Trying font sizes </font> 
 
 __Linde India Limited__<br/>
 *O&M Engineer, Onsite Operations*<br/>
