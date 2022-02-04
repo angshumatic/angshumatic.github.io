@@ -1,37 +1,45 @@
 ---
 layout: cv
-title: Resume
+title: Curriculum Vitae
 ---
+
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+
 # Angshuman Pal
 Consultant at PricewaterhouseCoopers India
 
 <div id="webaddress">
 <a href="angshumanpal11@gmail.com">angshumanpal11@gmail.com</a>
-| <a href="https://angshumatic.github.io/">My Website</a>
+| <a href="https://www.linkedin.com/in/angshumanpal11/">LinkedIn</a>
 </div>
 
 
 ## Experience
 
-
 __PricewaterhouseCoopers (PwC) India__<br/>
-*Associate, Technology Consulting (Advisory)*
+*Associate, Technology Consulting (Advisory)*<br/>
 `July 2021 - present`<br/>
 
 __Linde India Limited__<br/>
-*O&M Engineer, Onsite Operations*
+*O&M Engineer, Onsite Operations*<br/>
 `July 2018 - June 2019`<br/>
 
 ## Education
 
 __XLRI Xavier School of Management, Jamshedpur__<br/>
 PGDM (Business Management)<br/>
-`2019 - 2021`
+`2019 - 2021`<br/>
 Major: *Decision Sciences & Operations* | GPA *6.057/8*
 
 __Jadavpur University, Kolkata__<br/>
 BE (Mechanical Engineering)<br/>
-`2014 - 2018`
+`2014 - 2018`<br/>
 First Class (Honours) | GPA *8.82/10*
 
 
@@ -66,12 +74,12 @@ __ISHRAE Jadavpur University__<br/>
 ## Internships
 
 __Nestle India Limited__<br/>
-Management Intern
-`April 2020 - June 2020`<br/>
+Management Intern<br/>
+`April 2020 - June 2020`
 
 __IIT Kharagpur__<br/>
-`May 2017 - July 2017`<br/>
-INAE Research Intern
+INAE Research Intern<br/>
+`May 2017 - July 2017`
 
 
 ## Awards
