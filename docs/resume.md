@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Resume"
-permalink: /https://angshumatic.github.io/resume/
+permalink: /resume/
 ---
 
 My Resume
