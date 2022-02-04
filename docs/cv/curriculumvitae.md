@@ -3,7 +3,7 @@
 
 <p align="center">
 <font size="7"> <span style="font-family:Courier New;">Angshuman Pal</span> </font><br/>
-<span style="font-family:Courier New;">Consultant at PricewaterhouseCoopers India</span>
+<span style="font-family:Courier New;">Consultant at PricewaterhouseCoopers (PwC) India</span>
 </p>
 
 
@@ -13,12 +13,13 @@
 __PricewaterhouseCoopers (PwC) India__<br/>
 *Associate, Technology Consulting (Advisory)*<br/>
 `July 2021 - present`<br/>
+<font size="3"> Business Analyst in Defence Tech & Automation sector. </font><br/>
 
 
 __Linde India Limited__<br/>
 *O&M Engineer, Onsite Operations*<br/>
 `July 2018 - June 2019`<br/>
-    
+<font size="3">Shift Operations Lead & Functional Head (Mechanical). Executed cryogenic production of liquefied atmospheric gases worth INR 60M/month.
 
 
 
@@ -43,7 +44,7 @@ First Class (Honours) | GPA *8.82/10*
 Pal B, **Pal A**, Bag S, et al. (2021) "[Comparative Performance Analysis of 2D and 3D Gamma Metrics for Patient Specific QA in VMAT using Octavius 4D with 2D-Array 1500.](https://www.sciencedirect.com/science/article/abs/pii/S1120179721003264)<br/>
 *European Journal of Medical Physics (Elsevier)*
 
-`2021`
+`2020`
 Pal B, **Pal A**, Das S, et al. (2020) "[Retrospective study on performance of constancy check device in Linac beam monitoring using Statistical Process Control.](https://www.sciencedirect.com/science/article/pii/S1507136719301026)<br/>
 *Reports of Practical Oncology and Radiotherapy (Elsevier)*
 
