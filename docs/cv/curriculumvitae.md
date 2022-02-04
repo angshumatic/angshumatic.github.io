@@ -109,7 +109,7 @@ Winner, INAE National Essay Competition<br/>
 
 <font size="5"> <span style="font-family:Courier New;">Test Scores</span> </font>
 
-`GRE: 327/340`, `TOEFL: 115/120`
+`GRE: 327/340` `TOEFL: 115/120`
 
 
 
@@ -117,4 +117,4 @@ Winner, INAE National Essay Competition<br/>
 
 <font size="5"> <span style="font-family:Courier New;">Languages</span> </font>
 
-`Bengali`, `English`, `Spanish`, `Hindi`
+`Bengali` `English` `Spanish` `Hindi`
