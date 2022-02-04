@@ -1,7 +1,8 @@
 # Curriculum Vitae
 
+
 <p align="center">
-<font size="7"> Angshuman Pal </font><br/>
+<font size="7"> <span style="font-family:Garamond;">Angshuman Pal!</span> </font><br/>
 Consultant at PricewaterhouseCoopers India
 </p>
 
