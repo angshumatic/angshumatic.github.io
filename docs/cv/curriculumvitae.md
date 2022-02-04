@@ -23,7 +23,7 @@ Shift Operations Lead & Functional Head (Mechanical). Executed cryogenic product
 
 
 
-<font size="5"> <span style="font-family:Courier New;">Education</span> </font>
+<font size="5"> <span style="font-family:Courier New;">Education</span> </font><br/>
 
 __XLRI Xavier School of Management, Jamshedpur__<br/>
 PGDM (Business Management)<br/>
