@@ -9,6 +9,8 @@ Consultant at PricewaterhouseCoopers India
 | <a href="https://www.linkedin.com/in/angshumanpal11/">LinkedIn</a>
 </div>
 
+| Angshuman Pal |
+| :-----------: |
 
 ### Experience
 
@@ -21,6 +23,7 @@ __PricewaterhouseCoopers (PwC) India__<br/>
     // Trying alignment
 </p>
 
+ <font size="5"> Trying font sizes </font> 
 
 __Linde India Limited__<br/>
 *O&M Engineer, Onsite Operations*<br/>
