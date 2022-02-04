@@ -3,12 +3,7 @@ layout: cv
 title: Curriculum Vitae
 ---
 
-p {
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
-}
+document.getElementById("myDiv").style.margin = "50px 100px 20px 100px"; 
 
 
 # Angshuman Pal
