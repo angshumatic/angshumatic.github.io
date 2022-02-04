@@ -15,6 +15,7 @@ Consultant at PricewaterhouseCoopers India
 __PricewaterhouseCoopers (PwC) India__<br/>
 *Associate, Technology Consulting (Advisory)*<br/>
 `July 2021 - present`<br/>
+<span style="font-size:0.5;">What I do at PwC</span>
 
 __Linde India Limited__<br/>
 *O&M Engineer, Onsite Operations*<br/>
@@ -81,3 +82,8 @@ Leader of Tomorrow, SGS 2021<br/>
 Student Delegate, INAE Youth Conclave 2018<br/>
 Winner, INAE National Essay Competition<br/>
 `2018`
+
+
+### Languages
+
+`Bengali`, `English`, `Spanish`, `Hindi`
