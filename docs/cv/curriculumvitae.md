@@ -5,14 +5,6 @@
 Consultant at PricewaterhouseCoopers India
 </p>
 
-<p align="center">
-<div id="webaddress">
-<a href="angshumanpal11@gmail.com">angshumanpal11@gmail.com</a>
-| <a href="https://www.linkedin.com/in/angshumanpal11/">LinkedIn</a>
-</div>
-</p>
-
-
 
 
 <font size="5"> Experience </font>
@@ -20,14 +12,12 @@ Consultant at PricewaterhouseCoopers India
 __PricewaterhouseCoopers (PwC) India__<br/>
 *Associate, Technology Consulting (Advisory)*<br/>
 `July 2021 - present`<br/>
-<font size="1"> What I do at PwC </font>
 
 
 
 __Linde India Limited__<br/>
 *O&M Engineer, Onsite Operations*<br/>
 `July 2018 - June 2019`<br/>
-<font size="1"> What I did at Linde </font>
     
 
     
