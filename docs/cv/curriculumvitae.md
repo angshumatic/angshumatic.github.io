@@ -28,7 +28,8 @@ Shift Operations Lead & Functional Head (Mechanical) at the 221 TPD ASU, Selaqui
 __XLRI Xavier School of Management, Jamshedpur, India__<br/>
 PGDM in Business Management<br/>
 `2019 - 2021`<br/>
-Major: *Decision Sciences & Operations* | GPA *6.057/8*
+Major: *Decision Sciences & Operations* | GPA *6.057/8*<br/>
+Dissertation: *Industrial Sustainability & Risk Assessment of the Indian Steel Industry*
 
 __Jadavpur University, Kolkata, India__<br/>
 BE in Mechanical Engineering<br/>
@@ -41,11 +42,11 @@ First Class (Honours) | GPA *8.82/10*
 <font size="5"> <span style="font-family:Courier New;">Publications</span> </font>
 
 `2021`
-Pal B, **Pal A**, Bag S, et al. (2021) "[Comparative Performance Analysis of 2D and 3D Gamma Metrics for Patient Specific QA in VMAT using Octavius 4D with 2D-Array 1500.](https://www.sciencedirect.com/science/article/abs/pii/S1120179721003264)<br/>
+Pal B, **Pal A**, Bag S, et al. (2021) "["Comparative Performance Analysis of 2D and 3D Gamma Metrics for Patient Specific QA in VMAT using Octavius 4D with 2D-Array 1500.](https://www.sciencedirect.com/science/article/abs/pii/S1120179721003264)"<br/>
 *European Journal of Medical Physics (Elsevier)*
 
 `2020`
-Pal B, **Pal A**, Das S, et al. (2020) "[Retrospective study on performance of constancy check device in Linac beam monitoring using Statistical Process Control.](https://www.sciencedirect.com/science/article/pii/S1507136719301026)<br/>
+Pal B, **Pal A**, Das S, et al. (2020) "[Retrospective study on performance of constancy check device in Linac beam monitoring using Statistical Process Control.](https://www.sciencedirect.com/science/article/pii/S1507136719301026)"<br/>
 *Reports of Practical Oncology and Radiotherapy (Elsevier)*
 
 
