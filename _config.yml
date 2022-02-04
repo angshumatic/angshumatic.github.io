@@ -19,7 +19,7 @@ instagram_username: "angshumatic"
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: jekyll-theme-minimal
+## theme: jekyll-theme-minimal\
 
 rss: rss
 
