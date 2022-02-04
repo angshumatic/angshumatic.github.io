@@ -11,18 +11,14 @@ Consultant at PricewaterhouseCoopers India
 </div>
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+`July 2021 - present`
+__PricewaterhouseCoopers (PwC) India__<br/>
+Associate, Technology Consulting
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`July 2018 - June 2019`
+__Linde India Limited__<br/>
 
 
 ## Education
@@ -37,19 +33,26 @@ __Jadavpur University, Kolkata__<br/>
 BE (Mechanical Engineering)<br/>
 First Class (Honours) | GPA 8.82/10
 
-- Sizar
+## Skills
 
-`1667 - death`
-__Trinity College, Cambridge__
+`R`, `MATLAB`, `SPSS`, `Minitab`, `LaTeX`, `Tableau`, `Advanced Excel`
 
-- Fellow
+## Internships
 
+`April 2020 - June 2020`
+__Nestle India Limited__<br/>
+Management Intern
+
+`May 2017 - July 2017`
+__IIT Kharagpur__<br/>
+INAE Research Intern
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2020`
+Leader of Tomorrow, *50th St Gallen Symposium*<br/>
+University of St Gallen, Switzerland
 
 Associate, *French Academy of Science*, Paris, France
 
@@ -57,39 +60,12 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2021`
+Pal B, **Pal A**, Bag S, et al. (2021) "Comparative Performance Analysis of 2D and 3D Gamma Metrics for Patient Specific QA in VMAT using Octavius 4D with 2D-Array 1500.<br/>
+*European Journal of Medical Physics (Elsevier)*
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+`2021`
+Pal B, **Pal A**, Das S, et al. (2020) "Retrospective study on performance of constancy check device in Linac beam monitoring using Statistical Process Control.<br/>
+*Reports of Practical Oncology and Radiotherapy (Elsevier)*
 
 
