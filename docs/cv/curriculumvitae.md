@@ -96,14 +96,15 @@ __ISHRAE Jadavpur University__<br/>
 
 <font size="5"> <span style="font-family:Courier New;">Awards</span> </font>
 
-*Leader of Tomorrow, SGS 2021*<br/>
-50th St Gallen Symposium, HSG Switzerland<br/>
+**Leader of Tomorrow**, SGS 2021<br/>
+*50th St Gallen Symposium, HSG Switzerland*<br/>
+Essay: [Reciprocal altruism – An economist’s magic wand for building trust](https://angshumatic.github.io/2021/05/06/RECIPROCAL-ALTRUISM.html)<br/>
 `2020`
 
-*Student Delegate, INAE Youth Conclave 2018*<br/>
-Winner, INAE National Essay Competition<br/>
+**Student Delegate**, INAE Youth Conclave 2018<br/>
+*Winner, INAE National Essay Competition*<br/>
+Essay: [Treatment of Water-Based Urban Wastes Using Natural and Constructed Wetlands](https://angshumatic.github.io/2018/08/11/WETLANDS.html)<br/>
 `2018`
-
 
 
 
