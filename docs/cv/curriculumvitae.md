@@ -13,13 +13,13 @@
 __PricewaterhouseCoopers (PwC) India__<br/>
 *Associate, Technology Consulting (Advisory)*<br/>
 `July 2021 - present`<br/>
-<font size="3"> Business Analyst in Defence Tech & Automation sector. </font><br/>
+<font size="2"> Business Analyst in Defence Tech & Automation sector. </font><br/>
 
 
 __Linde India Limited__<br/>
 *O&M Engineer, Onsite Operations*<br/>
 `July 2018 - June 2019`<br/>
-<font size="3">Shift Operations Lead & Functional Head (Mechanical). Executed cryogenic production of liquefied atmospheric gases worth INR 60M/month.
+<font size="2">Shift Operations Lead & Functional Head (Mechanical). Executed cryogenic production of liquefied atmospheric gases worth INR 60M/month.<br/>
 
 
 
