@@ -13,24 +13,24 @@
 __PricewaterhouseCoopers (PwC) India__<br/>
 *Associate, Technology Consulting (Advisory)*<br/>
 `July 2021 - present`<br/>
-Business Analyst in Defence Tech & Automation sector.<br/>
+Business Analyst for government clients in the Defence Tech & Automation industry. Currently managing the process of application stabilization & cybersecurity implementation on 8+ user modules on an app modernization project.<br/>
 
 
 __Linde India Limited__<br/>
 *O&M Engineer, Onsite Operations*<br/>
 `July 2018 - June 2019`<br/>
-Shift Operations Lead & Functional Head (Mechanical). Executed cryogenic production of liquefied atmospheric gases worth INR 60M/month.<br/>
+Shift Operations Lead & Functional Head (Mechanical) at the 221 TPD ASU, Selaqui (Dehradun), India. Managed the production, planning & dispatch of cryogenic liquefied atmospheric gases worth INR 60M/month.<br/>
 
 
 
 <font size="5"> <span style="font-family:Courier New;">Education</span> </font>
 
-__XLRI Xavier School of Management, Jamshedpur__<br/>
+__XLRI Xavier School of Management, Jamshedpur, India__<br/>
 PGDM in Business Management<br/>
 `2019 - 2021`<br/>
 Major: *Decision Sciences & Operations* | GPA *6.057/8*
 
-__Jadavpur University, Kolkata__<br/>
+__Jadavpur University, Kolkata, India__<br/>
 BE in Mechanical Engineering<br/>
 `2014 - 2018`<br/>
 First Class (Honours) | GPA *8.82/10*
@@ -53,9 +53,9 @@ Pal B, **Pal A**, Das S, et al. (2020) "[Retrospective study on performance of c
 
 
 
-<font size="5"> <span style="font-family:Courier New;">Skills</span> </font>
+<font size="5"> <span style="font-family:Courier New;">Tools & Skills</span> </font>
         
-`R`, `MATLAB`, `SPSS`, `Minitab`, `LaTeX`, `Tableau`, `Advanced Excel`
+`R` `MATLAB` `SPSS` `Minitab` `LaTeX` `Markdown` `Tableau` `Advanced Excel`
 
 
 
