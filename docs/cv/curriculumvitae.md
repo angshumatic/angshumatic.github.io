@@ -10,24 +10,25 @@ Consultant at PricewaterhouseCoopers India
 </p>
 
 
-<font size="5"> Experience </font
+
+
+<font size="5"> Experience </font>
 
 __PricewaterhouseCoopers (PwC) India__<br/>
 *Associate, Technology Consulting (Advisory)*<br/>
 `July 2021 - present`<br/>
 <span style="font-family:Papyrus; font-size:0.5;">What I do at PwC</span>
 
-<p align="center">
-    Trying alignment
-</p>
 
-  Trying font sizes </font> 
 
 __Linde India Limited__<br/>
 *O&M Engineer, Onsite Operations*<br/>
 `July 2018 - June 2019`<br/>
 
-### Education
+    
+
+    
+<font size="5"> Education </font>
 
 __XLRI Xavier School of Management, Jamshedpur__<br/>
 PGDM (Business Management)<br/>
@@ -40,7 +41,8 @@ BE (Mechanical Engineering)<br/>
 First Class (Honours) | GPA *8.82/10*
 
 
-### Publications
+    
+<font size="5"> Publications </font>
 
 `2021`
 Pal B, **Pal A**, Bag S, et al. (2021) "[Comparative Performance Analysis of 2D and 3D Gamma Metrics for Patient Specific QA in VMAT using Octavius 4D with 2D-Array 1500.](https://www.sciencedirect.com/science/article/abs/pii/S1120179721003264)<br/>
@@ -52,13 +54,17 @@ Pal B, **Pal A**, Das S, et al. (2020) "[Retrospective study on performance of c
 
 
 
-### Skills
-
+    
+<font size="5"> Skills </font>
+        
 `R`, `MATLAB`, `SPSS`, `Minitab`, `LaTeX`, `Tableau`, `Advanced Excel`
 
 
-### Leadership Positions
 
+    
+<font size="5"> Leadership Positions </font>
+    
+    
 __Impact Consulting, Kolkata Hub__<br/>
 *Business Development Manager*<br/>
 `June 2021 - present`
@@ -68,7 +74,9 @@ __ISHRAE Jadavpur University__<br/>
 `August 2016 - April 2018`
 
 
-### Internships
+    
+    
+<font size="5"> Internships </font>
 
 __Nestle India Limited__<br/>
 Management Intern<br/>
@@ -79,7 +87,7 @@ INAE Research Intern<br/>
 `May 2017 - July 2017`
 
 
-### Awards
+<font size="5"> Awards </font>
 
 Leader of Tomorrow, SGS 2021<br/>
 50th St Gallen Symposium, HSG Switzerland<br/>
@@ -90,6 +98,7 @@ Winner, INAE National Essay Competition<br/>
 `2018`
 
 
-### Languages
+    
+<font size="5"> Languages </font>
 
 `Bengali`, `English`, `Spanish`, `Hindi`
