@@ -5,10 +5,9 @@ date: 2020-11-11T20:20:46.000Z
 ---
 # Closing the loop - Supply chains for circular economies
 
+![closingtheloop](https://user-images.githubusercontent.com/98811198/152677906-33b201ff-2a5c-4190-b7da-dc5cc402dcb0.png)
 
 ## Human Consumption: A Double-Edged Sword
-
-![closingtheloop](https://user-images.githubusercontent.com/98811198/152677906-33b201ff-2a5c-4190-b7da-dc5cc402dcb0.png)
 
 > “You cannot control your population by force, but it can be distracted by consumption”
 > \- Noam Chomsky
