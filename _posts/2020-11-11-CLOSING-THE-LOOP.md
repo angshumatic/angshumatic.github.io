@@ -8,6 +8,8 @@ date: 2020-11-11T20:20:46.000Z
 
 ## Human Consumption: A Double-Edged Sword
 
+![closingtheloop](https://user-images.githubusercontent.com/98811198/152677906-33b201ff-2a5c-4190-b7da-dc5cc402dcb0.png)
+
 > “You cannot control your population by force, but it can be distracted by consumption”
 > \- Noam Chomsky
 
@@ -54,3 +56,5 @@ The measures and implications, however, are positive. Technology and engineering
 ## Epilogue
 
 According to a Forbes report, the average American family purchases $1700 worth of clothes annually; the number is worth more than a month of unemployment benefits doled out by the US Labour Department. In India, about half the population spends between ₹500 to ₹2,500 every month on clothes. While the US apparel industry had grown to be $12 billion in 2015, this also results in 24 billion pounds worth clothes and apparels making their way into US landfills and dumping sites every year. These numbers, startling though they are, are merely representative. The onus is on everyone to get these numbers down and reduce the quantum of waste we are generating every day.
+
+Photo Credits: [The Guardian](https://www.theguardian.com/cities/2016/oct/11/hell-earth-great-urban-scandal-life-rubbish-dump)
