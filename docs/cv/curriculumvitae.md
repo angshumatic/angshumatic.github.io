@@ -13,7 +13,7 @@
 __PricewaterhouseCoopers (PwC) India__<br/>
 *Associate, Technology Consulting (Advisory)*<br/>
 `July 2021 - present`<br/>
-Business Analyst for government clients in the Defence Tech & Automation industry. Currently managing the process of application stabilization & cybersecurity implementation on 8+ user modules on an app modernization project.<br/>
+Business Analyst for government clients in the Defence Tech & Automation industry. Currently managing the processes of application stabilization & cybersecurity implementation on 8+ user modules on an app modernization project.<br/>
 
 
 __Linde India Limited__<br/>
@@ -42,7 +42,7 @@ First Class (Honours) | GPA *8.82/10*
 <font size="5"> <span style="font-family:Courier New;">Publications</span> </font>
 
 `2021`
-Pal B, **Pal A**, Bag S, et al. (2021) "["Comparative Performance Analysis of 2D and 3D Gamma Metrics for Patient Specific QA in VMAT using Octavius 4D with 2D-Array 1500.](https://www.sciencedirect.com/science/article/abs/pii/S1120179721003264)"<br/>
+Pal B, **Pal A**, Bag S, et al. (2021) "[Comparative Performance Analysis of 2D and 3D Gamma Metrics for Patient Specific QA in VMAT using Octavius 4D with 2D-Array 1500.](https://www.sciencedirect.com/science/article/abs/pii/S1120179721003264)"<br/>
 *European Journal of Medical Physics (Elsevier)*
 
 `2020`
@@ -66,13 +66,15 @@ Pal B, **Pal A**, Das S, et al. (2020) "[Retrospective study on performance of c
 
 <font size="5"> <span style="font-family:Courier New;">Internships</span> </font>
 
-__Nestle India Limited__<br/>
+__Nestlé India Limited__<br/>
 Management Intern<br/>
 `April 2020 - June 2020`
+Campaign design for a sampling & activation project on an HFD brand
 
 __IIT Kharagpur__<br/>
 INAE Research Intern<br/>
 `May 2017 - July 2017`
+Project: *Capillary Dynamics in Soft Deformable Microchannels*
 
 
 
@@ -83,10 +85,12 @@ INAE Research Intern<br/>
 __Impact Consulting, Kolkata Hub__<br/>
 *Business Development Manager*<br/>
 `June 2021 - present`
+Client onboarding and project planning on 4+ SDG-centric social impact projects with startups and NGOs
 
 __ISHRAE Jadavpur University__<br/>
 *Chapter President*<br/>
 `August 2016 - April 2018`
+Led the 50+ member students' chapter in building academia-industry collaborations in the HVAC&R sector
 
 
 
@@ -99,7 +103,7 @@ __ISHRAE Jadavpur University__<br/>
 **Leader of Tomorrow**, SGS 2021<br/>
 *50th St Gallen Symposium, HSG Switzerland*<br/>
 Essay: [Reciprocal altruism – An economist’s magic wand for building trust](https://angshumatic.github.io/2021/05/06/RECIPROCAL-ALTRUISM.html)<br/>
-`2020`
+`2021`
 
 **Student Delegate**, INAE Youth Conclave 2018<br/>
 *Winner, INAE National Essay Competition*<br/>
@@ -111,7 +115,7 @@ Essay: [Treatment of Water-Based Urban Wastes Using Natural and Constructed Wetl
 
 <font size="5"> <span style="font-family:Courier New;">Test Scores</span> </font>
 
-`GRE: 327/340` `TOEFL: 115/120`
+`GRE: 327/340` `TOEFL: 115/120` `XAT '19: 99.26%ile` `GATE '18: 98.36%ile`
 
 
 
