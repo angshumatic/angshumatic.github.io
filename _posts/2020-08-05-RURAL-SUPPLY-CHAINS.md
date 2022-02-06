@@ -5,6 +5,7 @@ date: 2020-08-05T20:20:46.000Z
 ---
 # Modernizing the Rural Supply Chain - Feeding those who feed us
 
+![ruralsupplychains](https://user-images.githubusercontent.com/98811198/152677543-84f0b670-a565-432f-a25a-84105f7d8259.jpg)
 
 ## Introduction
 
