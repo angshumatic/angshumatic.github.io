@@ -56,17 +56,16 @@ There exists, however, little doubt that the rural supply chain is in dire need 
 
 In his globally acclaimed epic “City of Joy”, renowned French author Dominique Lapierre narrates a story of an impoverished Indian family who migrate from their ancestral residence in rural India to a teeming and crowded city in the east in search of livelihood, and what follows is a story of dreams, aspirations, injustice and sacrifice in a big city dealing with an explosion in migrant population. As many a reader has questioned upon reading the novel – "Why do they even come and live in the city anyway when they can easily farm in the countryside?" It is evident that there is no single answer to this question, but maybe the solution to all of them lies in creating an efficient supply chain.
 
-Cover Photo Credits: @yordphotos
 
 
 ## References
 
-- Forecasting Blockchain in Agriculture & Food Market. (2018, November 10). Retrieved from https://www.unlock-bc.com/news/2018-11-10/forecasting-blockchain-in-agriculture-food-market.
-- Ganti, V. (2012, February 20). Fixing the Agricultural Supply Chain from the Top and Bottom. Retrieved from https://yourstory.com/2012/02/fixing-the-agricultural-supply-chain-from-the-top-and-bottom?utm_pageloadtype=scroll.
-- India Brand Equity Foundation. (2017, July 17). Analysis About Indian Agriculture Industry, Market Size, Export & Investment Opportunity. Retrieved from https://www.ibef.org/industry/agriculture-india/infographic.
-- India Struggles to Meet Rising Wheat Demand. (n.d.). Retrieved from https://gro-intelligence.com/insights/articles/india-struggles-to-meet-rising-wheat-demand.
-- Kazmin, A. (2014, April 10). India tackles supply chain to cut food waste. Retrieved from https://www.ft.com/content/c1f2856e-a518-11e3-8988-00144feab7de.
-- Naik, G., & Suresh, D. (2018). Challenges of creating sustainable agri-retail supply chains. IIMB Management Review, 30(3), 270–282. doi: 10.1016/j.iimb.2018.04.001
-- No Time to Waste: A New Model for Agricultural Forecasting. (n.d.). Retrieved from https://gro-intelligence.com/insights/articles/no-time-to-waste-a-new-model-for-agricultural-forecasting.
-- Tribune News Service. (2018, September 24). A world without waste. Retrieved from https://m.tribuneindia.com/news/archive/a-world-without-waste-657670.
+- Forecasting Blockchain in Agriculture & Food Market. (2018, November 10). https://www.unlock-bc.com/news/2018-11-10/forecasting-blockchain-in-agriculture-food-market
+- Ganti, V. (2012, February 20). Fixing the Agricultural Supply Chain from the Top and Bottom. https://yourstory.com/2012/02/fixing-the-agricultural-supply-chain-from-the-top-and-bottom?utm_pageloadtype=scroll
+- India Brand Equity Foundation. (2017, July 17). Analysis About Indian Agriculture Industry, Market Size, Export & Investment Opportunity. https://www.ibef.org/industry/agriculture-india/infographic
+- India Struggles to Meet Rising Wheat Demand. https://gro-intelligence.com/insights/articles/india-struggles-to-meet-rising-wheat-demand
+- Kazmin, A. (2014, April 10). India tackles supply chain to cut food waste. https://www.ft.com/content/c1f2856e-a518-11e3-8988-00144feab7de
+- Naik, G., & Suresh, D. (2018). Challenges of creating sustainable agri-retail supply chains. IIMB Management Review, 30(3), 270–282.
+- No Time to Waste: A New Model for Agricultural Forecasting. https://gro-intelligence.com/insights/articles/no-time-to-waste-a-new-model-for-agricultural-forecasting.
+- Tribune News Service. (2018, September 24). A world without waste. https://m.tribuneindia.com/news/archive/a-world-without-waste-657670.
 - Viswanadham, N. (2006). Can India be the food basket for the world. Achieving rural and global supply chain excellence: the Indian way. Hyderabad: GLAMS, 1, 1-16.
