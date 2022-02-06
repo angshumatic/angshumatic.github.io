@@ -61,7 +61,7 @@ In his globally acclaimed epic “City of Joy”, renowned French author Dominiq
 ## References
 
 - Forecasting Blockchain in Agriculture & Food Market. (2018, November 10). [https://www.unlock-bc.com/news/2018-11-10/forecasting-blockchain-in-agriculture-food-market](https://www.unlock-bc.com/news/2018-11-10/forecasting-blockchain-in-agriculture-food-market)
-- Ganti, V. (2012, February 20). Fixing the Agricultural Supply Chain from the Top and Bottom. [https://yourstory.com/2012/02/fixing-the-agricultural-supply-chain-from-the-top-and-bottom?utm_pageloadtype=scroll](https://yourstory.com/2012/02/fixing-the-agricultural-supply-chain-from-the-top-and-bottom?utm_pageloadtype=scroll)
+- Ganti, V. (2012, February 20). Fixing the Agricultural Supply Chain from the Top and Bottom. [https://yourstory.com/2012/02/fixing-the-agricultural-supply-chain-from-the-top-and-bottom](https://yourstory.com/2012/02/fixing-the-agricultural-supply-chain-from-the-top-and-bottom)
 - India Brand Equity Foundation. (2017, July 17). Analysis About Indian Agriculture Industry, Market Size, Export & Investment Opportunity. [https://www.ibef.org/industry/agriculture-india/infographic](https://www.ibef.org/industry/agriculture-india/infographic)
 - India Struggles to Meet Rising Wheat Demand. [https://gro-intelligence.com/insights/articles/india-struggles-to-meet-rising-wheat-demand](https://gro-intelligence.com/insights/articles/india-struggles-to-meet-rising-wheat-demand)
 - Kazmin, A. (2014, April 10). India tackles supply chain to cut food waste. [https://www.ft.com/content/c1f2856e-a518-11e3-8988-00144feab7de](https://www.ft.com/content/c1f2856e-a518-11e3-8988-00144feab7de)
