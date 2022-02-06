@@ -42,6 +42,7 @@ Throw in a catastrophe into routine life, and the "other" sex will fare worse th
 
 In conclusion, there is no valid disagreement on the point that the pandemic in its devastation has not in fact been equal to all, and therefore correcting the damage needs to account for the divergences. We have all suffered, in our different ways, in coming to terms with this once-in-a-century event, and we all continue to cope with it. But when rectification and countering the digression caused by the pandemic is the purpose, it is important to remember that by far the greatest imperative right now is to address the issue of the pandemic of the unprivileged.
 
+Photo Credits: [Forbes](https://www.forbes.com/sites/joewalsh/2021/04/10/indias-covid-outbreak-is-now-the-worlds-worst-as-it-lags-in-vaccinations/?sh=54fc811b4d2a)
 
 ## Bibliography
 
