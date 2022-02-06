@@ -68,13 +68,13 @@ Pal B, **Pal A**, Das S, et al. (2020) "[Retrospective study on performance of c
 
 __Nestlé India Limited__<br/>
 Management Intern<br/>
-*Dairy Business Unit*
+*Dairy Business Unit*<br/>
 `April 2020 - June 2020`<br/>
 Campaign design for a sampling & activation project on an HFD brand
 
 __IIT Kharagpur__<br/>
 INAE Research Intern<br/>
-*Microfluidics & Microscale Transport Lab*
+*Microfluidics & Microscale Transport Lab*<br/>
 `May 2017 - July 2017`<br/>
 Project: *Capillary Dynamics in Soft Deformable Microchannels*
 
