@@ -6,6 +6,8 @@ date: 2021-07-24T20:20:46.000Z
 
 # Servicification of news - A sustainable model for independent journalism
 
+![servicificationofnews](https://user-images.githubusercontent.com/98811198/152677998-c6b002ba-7191-4b5f-aaf5-f7a306a9d286.jpg)
+
 ##  Introduction
 
 The profession of journalism is broadly held in high regard at a global level. A study conducted in the United States in 2016 found that students and professionals of modern day journalism have much evolved and updated perceptions about the rights and duties of 21st century journalists in opining their ideas on critical contemporary issues and the role of citizen journalists in increasing people’s access to information. When public and professional perception about a vocation is strong, talented people are attracted to it. Looking through this somewhat myopic lens, there is nothing worrying about the state of global press, had not the ground reality have indicated otherwise. News, and the freedom to report it, is in danger.
