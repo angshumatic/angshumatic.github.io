@@ -6,8 +6,6 @@ date: 2019-09-20T20:20:46.000Z
 
 # Dissent, Journalism and Other Unnecessary Obstacles
 
-![dissentjournalism](https://user-images.githubusercontent.com/98811198/152980324-9e9c6e66-409a-45e7-9b5a-bfa56f3faaf7.jpg)
-
 ## Introduction
 
 > “Journalism can never be silent: that is its greatest virtue and its greatest fault. It must speak, and speak immediately, while the echoes of wonder, the claims of triumph and the signs of horror are still in the air.”
