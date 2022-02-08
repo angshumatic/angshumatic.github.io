@@ -70,6 +70,9 @@ At first glance, it still is counter intuitive. Altruistic behaviour very clearl
 The concept of reciprocity in altruistic behaviour over continuing interactions can play a crucial role in building society-wide trust – something which needs to be leveraged upon. Human interactions requiring trust are never one-off or isolated events. In the animal kingdom, a “tit-for-tat” strategy has shown great rewards in terms of building trust between and within species. With repeated contact, it becomes apparent that reposing trust, while counter intuitive, is actually enabling greater benefit for all. To refer to Hemingway, I shall continue reposing trust in you, as long as you continue to keep it.
 
 
+Photo Credits: [@frametheway](https://www.instagram.com/frametheway/)
+
+
 ## References:
 
 1. Dawkins, R. (2014). The selfish gene. In Essays and Reviews: 1959-2002. doi:10.2307/3317264
