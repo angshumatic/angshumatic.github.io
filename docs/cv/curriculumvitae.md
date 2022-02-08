@@ -25,13 +25,15 @@ Shift Operations Lead & Functional Head (Mechanical) at the 221 TPD ASU, Selaqui
 
 <font size="5"> <span style="font-family:Courier New;">Education</span> </font>
 
-__XLRI Xavier School of Management, Jamshedpur, India__<br/>
+__XLRI Xavier School of Management__<br/>
+*Jamshedpur, India*<br/>
 PGDM in Business Management<br/>
 `2019 - 2021`<br/>
 Major: *Decision Sciences & Operations* | GPA *6.057/8*<br/>
 Dissertation: *Industrial Sustainability & Risk Assessment of the Indian Steel Industry*
 
-__Jadavpur University, Kolkata, India__<br/>
+__Jadavpur University__<br/>
+*Kolkata, India*<br/>
 BE in Mechanical Engineering<br/>
 `2014 - 2018`<br/>
 First Class (Honours) | GPA *8.82/10*
