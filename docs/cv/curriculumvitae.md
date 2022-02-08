@@ -88,12 +88,12 @@ Project: *Capillary Dynamics in Soft Deformable Microchannels*
     
 __Impact Consulting, Kolkata Hub__<br/>
 *Business Development Manager*<br/>
-`June 2021 - present`
+`June 2021 - present`<br/>
 Client onboarding and project planning on 4+ SDG-centric social impact projects with startups and NGOs
 
 __ISHRAE Jadavpur University__<br/>
 *Chapter President*<br/>
-`August 2016 - April 2018`
+`August 2016 - April 2018`<br/>
 Led the 50+ member students' chapter in building academia-industry collaborations in the HVAC&R sector
 
 
@@ -106,13 +106,11 @@ Led the 50+ member students' chapter in building academia-industry collaboration
 
 **Leader of Tomorrow**, SGS 2021<br/>
 *50th St Gallen Symposium, HSG Switzerland*<br/>
-Essay: [Reciprocal altruism – An economist’s magic wand for building trust](https://angshumatic.github.io/2021/05/06/RECIPROCAL-ALTRUISM.html)<br/>
-`2021`
+Essay: [Reciprocal altruism – An economist’s magic wand for building trust](https://angshumatic.github.io/2021/05/06/RECIPROCAL-ALTRUISM.html)
 
 **Student Delegate**, INAE Youth Conclave 2018<br/>
 *Winner, INAE National Essay Competition*<br/>
-Essay: [Treatment of Water-Based Urban Wastes Using Natural and Constructed Wetlands](https://angshumatic.github.io/2018/08/11/WETLANDS.html)<br/>
-`2018`
+Essay: [Treatment of Water-Based Urban Wastes Using Natural and Constructed Wetlands](https://angshumatic.github.io/2018/08/11/WETLANDS.html)
 
 
 
