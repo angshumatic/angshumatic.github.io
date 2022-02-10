@@ -5,7 +5,7 @@
 
 <span style="font-family:Garamond;">
   Hello, and welcome to my world. My name is Angshuman, and I live in Kolkata, India.<br/>
-  Here I accommodate the new ideas which pass me by, by asking the old ones to [shift one room each](https://youtu.be/OxGsU8oIWjY).
+  Here I accommodate all new ideas which show up at my door, by asking the old ones to [shift by one room each](https://youtu.be/OxGsU8oIWjY).
 </span>
 
 ___
@@ -27,7 +27,7 @@ img {
 <img src="https://user-images.githubusercontent.com/98811198/152400615-dcfe016d-f6d8-4f0e-8bf0-e39ec133b73c.JPG" alt="profile photo" loading ="eager" width=200px height=auto style="margin:25px 25px" align="right">
 
 <span style="font-family:Garamond;">
-  I am a consultant by profession, currently working with the Advisory team at PricewaterhouseCoopers (PwC) India. I am a business graduate from XLRI Xavier School of Management, Jamshedpur, with a major in Decision Sciences & Operations. I also have a degree in Mechanical Engineering from Jadavpur University, Kolkata, and have priorly worked as an Operations Engineer with The Linde Group, in the chemicals manufacturing industry.<br/>
+  I am a consultant by profession, currently working with the Advisory team at [PricewaterhouseCoopers (PwC) India](https://www.pwc.in/). I am a business graduate from [XLRI Xavier School of Management, Jamshedpur](https://www.xlri.ac.in/), with a major in Decision Sciences & Operations. I also have a degree in Mechanical Engineering from [Jadavpur University](http://www.jaduniv.edu.in/), Kolkata, and have priorly worked as an Operations Engineer with [The Linde Group](https://www.linde.in/en/index.html), in the chemicals manufacturing industry.<br/>
 </span>
 
 <span style="font-family:Garamond;">
@@ -35,7 +35,7 @@ img {
 </span>
 
 <span style="font-family:Garamond;">
-Work rarely restricts itself to narrow definitions. Beyond my professional duties, I devote a few hours every week to pro-bono social impact creation as a Business Development Manager with [Impact Consulting, Kolkata](https://www.linkedin.com/company/ic-kolkata/), and when time permits I teach myself scientific coding using mathematical programming tools. I run my [personal blog](https://angshumatic.github.io/archive.html) on matters that matter to me, contribute in English to a bilingual fiction-blog at [Aweবাক জলpun](https://awebaakjolpun.wordpress.com/), and post intermittently on Instagram as [@angshumatic](https://www.instagram.com/angshumatic/).<br/>
+Work rarely restricts itself to narrow definitions. Beyond my professional duties, I devote a few hours every week to pro-bono social impact creation as a Business Development Manager with [Impact Consulting, Kolkata](https://www.linkedin.com/company/ic-kolkata/), and when time permits I teach myself scientific coding using mathematical programming tools. I write on my [personal blog](https://angshumatic.github.io/archive.html) on matters that matter to me, contribute in English to a bilingual fiction-blog at [Aweবাক জলpun](https://awebaakjolpun.wordpress.com/), and post intermittently on Instagram as [@angshumatic](https://www.instagram.com/angshumatic/).<br/>
 </span>
 
 <span style="font-family:Garamond;">
@@ -43,9 +43,11 @@ Work rarely restricts itself to narrow definitions. Beyond my professional dutie
   </span>
   
 <span style="font-family:Garamond;">
-  Have a great day!<br/>
+  Thanks for dropping by, and have a great day!<br/>
  </span>
-  
-[LinkedIn](https://www.linkedin.com/in/angshumanpal11/) || [Scholar](https://scholar.google.com/citations?user=n_LYBhEAAAAJ) || [Github](https://github.com/angshumatic) || [Curriculum Vitae](https://angshumatic.github.io/docs/cv/curriculumvitae.html)<br/>
+ 
+<span style="font-family:Courier New;">
+[LinkedIn](https://www.linkedin.com/in/angshumanpal11/) // [Scholar](https://scholar.google.com/citations?user=n_LYBhEAAAAJ) // [Github](https://github.com/angshumatic) // [Curriculum Vitae](https://angshumatic.github.io/docs/cv/curriculumvitae.html)<br/>
+</span>
 
 ___
