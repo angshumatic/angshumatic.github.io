@@ -3,6 +3,9 @@
   <span style="font-family:Courier New;"> <strong> Email:</strong> angshumanpal11@gmail.com</span>
 </p>
 
+![homepagememe](https://user-images.githubusercontent.com/98811198/153475157-faaaf03f-121a-44d6-ae4f-834fa4c6d354.jpeg)
+
+
 <span style="font-family:Garamond;">
   Hello, and welcome to my world. My name is Angshuman, and I live in Kolkata, India.<br/>
   Here I accommodate all new ideas which show up at my door, by asking the old ones to [shift by one room each](https://youtu.be/OxGsU8oIWjY).
@@ -27,7 +30,7 @@ img {
 <img src="https://user-images.githubusercontent.com/98811198/152400615-dcfe016d-f6d8-4f0e-8bf0-e39ec133b73c.JPG" alt="profile photo" loading ="eager" width=200px height=auto style="margin:25px 25px" align="right">
 
 <span style="font-family:Garamond;">
-  I am a consultant by profession, currently working with the Advisory team at [PricewaterhouseCoopers (PwC) India](https://www.pwc.in/). I am a business graduate from [XLRI Xavier School of Management, Jamshedpur](https://www.xlri.ac.in/), with a major in Decision Sciences & Operations. I also have a degree in Mechanical Engineering from [Jadavpur University](http://www.jaduniv.edu.in/), Kolkata, and have priorly worked as an Operations Engineer with [The Linde Group](https://www.linde.in/en/index.html), in the chemicals manufacturing industry.<br/>
+  I am a consultant by profession, currently working with the Advisory team at [PricewaterhouseCoopers (PwC) India](https://www.pwc.in/). I am a business graduate from [XLRI Xavier School of Management, Jamshedpur](https://www.xlri.ac.in/), with a major in Decision Sciences & Operations. I also have a degree in Mechanical Engineering from [Jadavpur University](http://www.jaduniv.edu.in/, Kolkata), and have priorly worked as an Operations Engineer with [The Linde Group](https://www.linde.in/en/index.html), in the chemicals manufacturing industry.<br/>
 </span>
 
 <span style="font-family:Garamond;">
