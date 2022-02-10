@@ -44,10 +44,8 @@ Work rarely restricts itself to narrow definitions. Beyond my professional dutie
   
 <span style="font-family:Garamond;">
   Have a great day!<br/>
-</span>
-
-<p align="center">
-  [LinkedIn](https://www.linkedin.com/in/angshumanpal11/) | [Scholar](https://scholar.google.com/citations?user=n_LYBhEAAAAJ) | [Github](https://github.com/angshumatic) | [Curriculum Vitae](https://angshumatic.github.io/docs/cv/curriculumvitae.html)<br/>
-</p>
+ </span>
+  
+[LinkedIn](https://www.linkedin.com/in/angshumanpal11/) || [Scholar](https://scholar.google.com/citations?user=n_LYBhEAAAAJ) || [Github](https://github.com/angshumatic) || [Curriculum Vitae](https://angshumatic.github.io/docs/cv/curriculumvitae.html)<br/>
 
 ___
