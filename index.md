@@ -6,18 +6,15 @@
 
 
 
-
-<span style="font-family:Garamond;">
+ <div class="row">
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/98811198/153475157-faaaf03f-121a-44d6-ae4f-834fa4c6d354.jpeg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/98811198/153477385-e953de46-7c10-42f8-b739-c0309ed04b59.jpeg" style="width:100%">
+  </div>
+</div> 
   
-<figure>
-  <img src="https://user-images.githubusercontent.com/98811198/153475157-faaaf03f-121a-44d6-ae4f-834fa4c6d354.jpeg" alt="ideameme" loading ="eager" width=350px height=auto style="margin:25px 25px" align="left">
-  <figcaption>[@phd_comics](https://www.instagram.com/phd_comics/)</figcaption>
-</figure>
-  
-<figure>
-  <img src="https://user-images.githubusercontent.com/98811198/153477385-e953de46-7c10-42f8-b739-c0309ed04b59.jpeg" alt="strangeplanetmeme" loading ="eager" width=350px height=auto style="margin:25px 25px" align="right">
-  <figcaption>[@nathanwpylestrangeplanet](https://www.instagram.com/nathanwpylestrangeplanet/)</figcaption>
-</figure>
 
   Hello, and welcome to my world. My name is Angshuman, and I live in Kolkata, India.<br/>
   Here I accommodate all new ideas which show up at my door, by asking the old ones to [shift by one room each](https://youtu.be/OxGsU8oIWjY).
@@ -25,8 +22,12 @@
 
 ___
 
+
 <br/>
 
+
+<span style="font-family:Garamond;">
+  
 <p align="center">
   <span style="font-family:Courier New;">
     <font size="5">About Me</font><br/>
