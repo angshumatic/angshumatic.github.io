@@ -1,11 +1,11 @@
 <p align="center">
 <font size="7"> <span style="font-family:Courier New;">Angshuman Pal</span> </font><br/>
-  <span style="font-family:Courier New;"> <strong> Email:</strong> angshumanpal11@gmail.com</span>
+  <span style="font-family:Courier New;"> <strong> Email:</strong> angshumanpal11@gmail.com<br/></span>
 </p>
 
 <span style="font-family:Garamond;">
   Hello, and welcome to my world. My name is Angshuman, and I live in Kolkata, India.<br/>
-  Here I accommodate the new ideas which pass me by, by asking the old ones to shift one room each.
+  Here I accommodate the new ideas which pass me by, by asking the old ones to shift one room each.<br/>
 </span>
 
 <br/>
@@ -38,4 +38,5 @@ Once I have turned my devices off, I write for myself and for the world in two l
 Have a great day!
 
 [LinkedIn](https://www.linkedin.com/in/angshumanpal11/) | [Scholar](https://scholar.google.com/citations?user=n_LYBhEAAAAJ) | [Github](https://github.com/angshumatic) | [Curriculum Vitae](https://angshumatic.github.io/docs/cv/curriculumvitae.html)<br/>
+
 ___
