@@ -2,12 +2,13 @@
 <font size="7"> <span style="font-family:Courier New;">Angshuman Pal</span> </font><br/>
   <span style="font-family:Courier New;"> <strong> Email:</strong> angshumanpal11@gmail.com</span>
 </p>
+<br/>
 
 
-<img src="https://user-images.githubusercontent.com/98811198/153475157-faaaf03f-121a-44d6-ae4f-834fa4c6d354.jpeg" alt="homepagememe" loading ="eager" width=300px height=auto style="margin:25px 25px" align="center">
 
 
 <span style="font-family:Garamond;">
+  <img src="https://user-images.githubusercontent.com/98811198/153475157-faaaf03f-121a-44d6-ae4f-834fa4c6d354.jpeg" alt="homepagememe" loading ="eager" width=300px height=auto style="margin:25px 25px" align="left">
   Hello, and welcome to my world. My name is Angshuman, and I live in Kolkata, India.<br/>
   Here I accommodate all new ideas which show up at my door, by asking the old ones to [shift by one room each](https://youtu.be/OxGsU8oIWjY).
 </span>
