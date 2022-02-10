@@ -9,28 +9,7 @@ Here I accommodate the new ideas which pass me by, by asking the old ones to shi
 
 # About Me
 
-<div class="image-cropper">
-  <img src="https://user-images.githubusercontent.com/98811198/152400615-dcfe016d-f6d8-4f0e-8bf0-e39ec133b73c.JPG" alt="avatar" class="profile-pic">
-</div>
-
-.image-cropper {
-    width: 300px;
-    height: 300px;
-    position: relative;
-    overflow: hidden;
-    border-radius: 50%;
-}
-
-.profile-pic {
-  display: inline;
-  margin: 25px 25px;
-  width: 100%;
-  height: auto;
-}
-
-
-
-<img src="https://user-images.githubusercontent.com/98811198/152400615-dcfe016d-f6d8-4f0e-8bf0-e39ec133b73c.JPG" alt="profile photo" loading ="eager" width=300px height=300px object-fit="cover" border-radius=50% style="margin:25px 25px" align="right">
+<img src="https://user-images.githubusercontent.com/98811198/152400615-dcfe016d-f6d8-4f0e-8bf0-e39ec133b73c.JPG" alt="profile photo" loading ="eager" width=300px height=300px border-radius=50% style="margin:25px 25px" align="right">
 
 
 
