@@ -8,9 +8,6 @@ Hello, and welcome to my world. My name is Angshuman, and I live in Kolkata, Ind
 Here I accommodate the new ideas which pass me by, by asking the old ones to shift one room each.
 
 ___
-___
-
-# About Me
 
 <style>
 img {
@@ -19,6 +16,12 @@ img {
 </style>
 
 <img src="https://user-images.githubusercontent.com/98811198/152400615-dcfe016d-f6d8-4f0e-8bf0-e39ec133b73c.JPG" alt="profile photo" loading ="eager" width=200px height=auto style="margin:25px 25px" align="right">
+
+<p align="center">
+<font size="5">About Me</font><br/>
+</p>
+
+
 I am a consultant by profession, currently working with the Advisory team at PricewaterhouseCoopers (PwC) India. I am a business graduate from XLRI Xavier School of Management, Jamshedpur, with a major in Decision Sciences & Operations. I also have a degree in Mechanical Engineering from Jadavpur University, Kolkata, and have priorly worked as an Operations Engineer with The Linde Group, in the chemicals manufacturing industry.
 
 In my current role, I employ and manage technology in its various dispositions to make tasks simpler and lives easier for businesses and their employees. While technology excites me, mathematics on the other hand intrigues me. My academic interests are spread out over the fields of statistics, decision sciences, econometrics, and operations. I strongly believe in the potential of academic research in management sciences and STEM to contribute to lasting change in society. More about my academic work on [Scholar](https://scholar.google.com/citations?user=n_LYBhEAAAAJ). Do drop an email if you want to collaborate or discuss.
