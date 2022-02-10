@@ -3,10 +3,12 @@
   <span style="font-family:Courier New;"> <strong> Email:</strong> angshumanpal11@gmail.com</span>
 </p>
 
-Hello, and welcome to my world. My name is Angshuman, and I live in Kolkata, India.<br/>
+<span style="font-family:Garamond;">
+  Hello, and welcome to my world. My name is Angshuman, and I live in Kolkata, India.<br/>
+  Here I accommodate the new ideas which pass me by, by asking the old ones to shift one room each.
+</span>
 
-Here I accommodate the new ideas which pass me by, by asking the old ones to shift one room each.
-
+<br/>
 ___
 
 <style>
@@ -15,8 +17,12 @@ img {
 }
 </style>
 
+<br/>
+
 <p align="center">
-<font size="5">About Me</font><br/>
+  <span style="font-family:Courier New;">
+    <font size="5">About Me</font><br/>
+  </span>
 </p>
 
 <img src="https://user-images.githubusercontent.com/98811198/152400615-dcfe016d-f6d8-4f0e-8bf0-e39ec133b73c.JPG" alt="profile photo" loading ="eager" width=200px height=auto style="margin:25px 25px" align="right">
@@ -31,5 +37,5 @@ Once I have turned my devices off, I write for myself and for the world in two l
 
 Have a great day!
 
-[LinkedIn](https://www.linkedin.com/in/angshumanpal11/) | [Scholar](https://scholar.google.com/citations?user=n_LYBhEAAAAJ) | [Github](https://github.com/angshumatic) | [Curriculum Vitae](https://angshumatic.github.io/docs/cv/curriculumvitae.html)
+[LinkedIn](https://www.linkedin.com/in/angshumanpal11/) | [Scholar](https://scholar.google.com/citations?user=n_LYBhEAAAAJ) | [Github](https://github.com/angshumatic) | [Curriculum Vitae](https://angshumatic.github.io/docs/cv/curriculumvitae.html)<br/>
 ___
