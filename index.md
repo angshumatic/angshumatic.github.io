@@ -6,16 +6,17 @@
 
 
 
- <div class="row">
-  <div class="column">
-    <img src="https://user-images.githubusercontent.com/98811198/153475157-faaaf03f-121a-44d6-ae4f-834fa4c6d354.jpeg" style="width:50%">
-  </div>
-  <div class="column">
-    <img src="https://user-images.githubusercontent.com/98811198/153477385-e953de46-7c10-42f8-b739-c0309ed04b59.jpeg" style="width:50%">
-  </div>
-</div> 
-  
+<div id="banner">
+    <div class="inline-block">
+        <img src ="https://user-images.githubusercontent.com/98811198/153475157-faaaf03f-121a-44d6-ae4f-834fa4c6d354.jpeg">
+    </div>
 
+    <div class="inline-block">
+        <img src ="https://user-images.githubusercontent.com/98811198/153477385-e953de46-7c10-42f8-b739-c0309ed04b59.jpeg">
+    </div>
+</div>
+  
+<span style="font-family:Garamond;">
   Hello, and welcome to my world. My name is Angshuman, and I live in Kolkata, India.<br/>
   Here I accommodate all new ideas which show up at my door, by asking the old ones to [shift by one room each](https://youtu.be/OxGsU8oIWjY).
 </span>
