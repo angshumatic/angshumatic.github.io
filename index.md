@@ -5,13 +5,13 @@
 <br/>
 
 
-<img src="https://user-images.githubusercontent.com/98811198/153475157-faaaf03f-121a-44d6-ae4f-834fa4c6d354.jpeg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
-<img src="https://user-images.githubusercontent.com/98811198/153477385-e953de46-7c10-42f8-b739-c0309ed04b59.jpeg" style="float: left; width: 30%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://user-images.githubusercontent.com/98811198/153475157-faaaf03f-121a-44d6-ae4f-834fa4c6d354.jpeg" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
+<img src="https://user-images.githubusercontent.com/98811198/153477385-e953de46-7c10-42f8-b739-c0309ed04b59.jpeg" style="float: left; width: 50%; margin-right: 1%; margin-bottom: 0.5em;">
 <p style="clear: both;">
   
 <span style="font-family:Garamond;">
   Hello, and welcome to my world. My name is Angshuman, and I live in Kolkata, India.<br/>
-  Here I accommodate all new ideas which show up at my door, by asking the old ones to [shift by one room each](https://youtu.be/OxGsU8oIWjY).
+  Here I accommodate all new ideas which show up at my door, by asking the old ones to [shift by one room each](https://youtu.be/OxGsU8oIWjY).<br/>
 </span>
 
 ___
