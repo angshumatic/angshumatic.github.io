@@ -4,7 +4,7 @@
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/98811198/153475157-faaaf03f-121a-44d6-ae4f-834fa4c6d354.jpeg" alt="homepagememe" loading ="eager" width=500px height=auto style="margin:25px 25px" align="center">
+<img src="https://user-images.githubusercontent.com/98811198/153475157-faaaf03f-121a-44d6-ae4f-834fa4c6d354.jpeg" alt="homepagememe" loading ="eager" width=300px height=auto style="margin:25px 25px" align="center">
 
 
 <span style="font-family:Garamond;">
@@ -13,12 +13,6 @@
 </span>
 
 ___
-
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
 
 <br/>
 
