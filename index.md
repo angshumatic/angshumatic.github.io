@@ -6,7 +6,7 @@
 Hello, and welcome to my world. My name is Angshuman, and I live in Kolkata, India.<br/>
 
 Here I accommodate the new ideas which pass me by, by asking the old ones to shift one room each.
-
+test
 ___
 
 # About Me
@@ -17,7 +17,7 @@ img {
 }
 </style>
 
-<img src="https://user-images.githubusercontent.com/98811198/152400615-dcfe016d-f6d8-4f0e-8bf0-e39ec133b73c.JPG" alt="profile photo" loading ="eager" width=200px height=auto style="margin:25px 25px" align="right">
+<img src="https://user-images.githubusercontent.com/98811198/152400615-dcfe016d-f6d8-4f0e-8bf0-e39ec133b73c.JPG" alt="profile photo" loading ="eager" width=100px height=auto style="margin:25px 25px" align="right">
 
 
 
