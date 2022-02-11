@@ -73,9 +73,11 @@ Project: *Capillary Dynamics in Soft Deformable Microchannels*
 
 
 
-<font size="5"> <span style="font-family:Courier New;">Tools & Skills</span> </font>
+<font size="5"> <span style="font-family:Courier New;">Skills</span> </font>
         
-`R` `MATLAB` `SPSS` `Minitab` `LaTeX` `Markdown` `Tableau` `Advanced Excel`
+Programming & Software: `R` `MATLAB` `SPSS` `Minitab` `Tableau`<br/>
+Technologies: `LaTeX` `Markdown` `WordPress` `Azure DevOps`<br/>
+Tools: `SPC` `Lean Six Sigma` `TQM` `Agile`
 
 
 
