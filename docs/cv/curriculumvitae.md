@@ -83,7 +83,6 @@ Project: *Capillary Dynamics in Soft Deformable Microchannels*
 
 
 
-
 <font size="5"> <span style="font-family:Courier New;">Leadership Positions</span> </font>
     
 __Impact Consulting, Kolkata Hub__<br/>
@@ -91,13 +90,15 @@ __Impact Consulting, Kolkata Hub__<br/>
 `June 2021 - present`<br/>
 Client onboarding and project planning on 4+ SDG-centric social impact projects with startups and NGOs
 
+__SPICMACAY, XLRI Chapter__<br/>
+*Secretary*<br/>
+`March 2020 - February 2021`<br/>
+Led a 16-member team as part of a global movement for promotion of Indian classical music, art & culture
+
 __ISHRAE Jadavpur University__<br/>
 *Chapter President*<br/>
 `August 2016 - April 2018`<br/>
 Led the 50+ member students' chapter in building academia-industry collaborations in the HVAC&R sector
-
-
-
 
 
 
