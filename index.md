@@ -35,7 +35,7 @@ ___
 </span>
 
 <span style="font-family:Garamond;">
-  In my current role, I employ and manage technology in its various moods and dispositions to make tasks simpler and lives easier for businesses and their employees. But while technology excites me, mathematics on the other hand intrigue me. My academic interests lie in the fields of statistics, decision sciences, econometrics, and operations. I strongly believe in the potential of academic research in management sciences and STEM to contribute to lasting change in people's lives, thereby breaking the people-made wall separating them from the social sciences. Do drop an email if you want to collaborate or discuss about work.<br/>
+  In my current role, I employ and manage technology in its various moods and dispositions to make tasks simpler and lives easier for businesses and their employees. But while technology excites me, mathematics on the other hand intrigues me. My academic interests lie in the fields of statistics, decision sciences, econometrics, and operations. I strongly believe in the potential of academic research in management sciences and STEM to contribute to lasting change in people's lives, thereby breaking the people-made wall separating them from the social sciences. Do drop an email if you want to collaborate or discuss about work.<br/>
 </span>
 
 <span style="font-family:Garamond;">
@@ -49,9 +49,10 @@ But work rarely restricts itself to limiting definitions. Beyond my professional
 <span style="font-family:Garamond;">
   Thanks for dropping by, and have a great day!<br/>
  </span>
- 
+  
+<p align="center">
 <span style="font-family:Courier New;">
 [LinkedIn](https://www.linkedin.com/in/angshumanpal11/) // [Scholar](https://scholar.google.com/citations?user=n_LYBhEAAAAJ) // [Github](https://github.com/angshumatic) // [Curriculum Vitae](https://angshumatic.github.io/docs/cv/curriculumvitae.html)<br/>
 </span>
-
+</p>
 ___
