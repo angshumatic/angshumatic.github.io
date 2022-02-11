@@ -1,5 +1,7 @@
+# Projects
+
 <p align="center">
-<font size="7"> <span style="font-family:Courier New;">Projects</span> </font><br/>
+<font size="7"> <span style="font-family:Courier New;">Academic Projects</span> </font><br/>
 </p>
 
 
