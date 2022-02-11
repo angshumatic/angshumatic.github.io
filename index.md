@@ -44,15 +44,13 @@ But work rarely restricts itself to limiting definitions. Beyond my professional
 
 <span style="font-family:Garamond;">
   Once I have turned my devices off, I write for myself and for the world in two languages, and play two western classical instruments. Bengali literature keeps me happy, chess allows me to rewind, math memes entertain me, my voice on social change is normally quite audible, and my Spotify playlists are usually liked by those who share my palate and disposition.<br/>
-  </span>
+</span>
   
 <span style="font-family:Garamond;">
   Thanks for dropping by, and have a great day!<br/>
- </span>
-  
-<p align="center">
+</span>
+
 <span style="font-family:Courier New;">
 [LinkedIn](https://www.linkedin.com/in/angshumanpal11/) // [Scholar](https://scholar.google.com/citations?user=n_LYBhEAAAAJ) // [Github](https://github.com/angshumatic) // [Curriculum Vitae](https://angshumatic.github.io/docs/cv/curriculumvitae.html)<br/>
 </span>
-</p>
 ___
