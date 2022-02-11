@@ -30,7 +30,7 @@ __XLRI Xavier School of Management__<br/>
 PGDM in Business Management<br/>
 `2019 - 2021`<br/>
 Major: *Decision Sciences & Operations* | GPA *6.057/8*<br/>
-Dissertation: [*Industrial Sustainability & Risk Assessment of the Indian Steel Industry*](https://drive.google.com/file/d/1SdgFJj9BdUdGbPTpntQTjGf_pzMKuviW/view?usp=sharing)
+Dissertation: [Industrial Sustainability & Risk Assessment of the Indian Steel Industry](https://drive.google.com/file/d/1SdgFJj9BdUdGbPTpntQTjGf_pzMKuviW/view?usp=sharing)
 
 __Jadavpur University__<br/>
 *Kolkata, India*<br/>
@@ -56,16 +56,6 @@ Pal B, **Pal A**, Das S, et al. (2020) "[Retrospective study on performance of c
 
 
 
-<font size="5"> <span style="font-family:Courier New;">Tools & Skills</span> </font>
-        
-`R` `MATLAB` `SPSS` `Minitab` `LaTeX` `Markdown` `Tableau` `Advanced Excel`
-
-
-
-
-
-
-
 <font size="5"> <span style="font-family:Courier New;">Internships</span> </font>
 
 __Nestlé India Limited__<br/>
@@ -79,6 +69,28 @@ INAE Research Intern<br/>
 *Microfluidics & Microscale Transport Lab*<br/>
 `May 2017 - July 2017`<br/>
 Project: *Capillary Dynamics in Soft Deformable Microchannels*
+
+
+
+
+<font size="5"> <span style="font-family:Courier New;">Tools & Skills</span> </font>
+        
+`R` `MATLAB` `SPSS` `Minitab` `LaTeX` `Markdown` `Tableau` `Advanced Excel`
+
+
+
+
+
+<font size="5"> <span style="font-family:Courier New;">Awards</span> </font>
+
+**Leader of Tomorrow**, SGS 2021<br/>
+*50th St Gallen Symposium, HSG Switzerland*<br/>
+Essay: [Reciprocal altruism – An economist’s magic wand for building trust](https://angshumatic.github.io/2021/05/06/RECIPROCAL-ALTRUISM.html)
+
+**Student Delegate**, INAE Youth Conclave 2018<br/>
+*Winner, INAE National Essay Competition*<br/>
+Essay: [Treatment of Water-Based Urban Wastes Using Natural and Constructed Wetlands](https://angshumatic.github.io/2018/08/11/WETLANDS.html)
+
 
 
 
@@ -99,19 +111,6 @@ __ISHRAE Jadavpur University__<br/>
 *Chapter President*<br/>
 `August 2016 - April 2018`<br/>
 Led the 50+ member students' chapter in building academia-industry collaborations in the HVAC&R sector
-
-
-
-
-<font size="5"> <span style="font-family:Courier New;">Awards</span> </font>
-
-**Leader of Tomorrow**, SGS 2021<br/>
-*50th St Gallen Symposium, HSG Switzerland*<br/>
-Essay: [Reciprocal altruism – An economist’s magic wand for building trust](https://angshumatic.github.io/2021/05/06/RECIPROCAL-ALTRUISM.html)
-
-**Student Delegate**, INAE Youth Conclave 2018<br/>
-*Winner, INAE National Essay Competition*<br/>
-Essay: [Treatment of Water-Based Urban Wastes Using Natural and Constructed Wetlands](https://angshumatic.github.io/2018/08/11/WETLANDS.html)
 
 
 
