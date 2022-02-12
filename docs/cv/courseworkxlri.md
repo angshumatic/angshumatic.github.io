@@ -1,5 +1,5 @@
 <p align="center">
-<font size="4"> <span style="font-family:Courier New;">Relevant Coursework: XLRI</span> </font><br/>
+<font size="5"> <span style="font-family:Courier New;">Relevant Coursework: XLRI</span> </font><br/>
 </p>
 
 <span style="font-family:Garamond;">**Degree**: Post Graduate Diploma in Business Management (PGDBM)<br/>**Area of concentration**: Decision Sciences & Operations<br/>**Duration**: `2019 - 2021`<br/></span>
