@@ -4,6 +4,7 @@
 <font size="7"> <span style="font-family:Courier New;">Academic Projects</span> </font><br/>
 </p>
 
+Test link [lbm](lbm.md)
 
 - **Applications of Lattice Boltzmann Method in Dynamic Modelling of Fluid Flows**<br/>
 **Advisor**: Prof. Himadri Chattopadhyay, *Professor*, Department of Mechanical Engineering, Jadavpur University<br/>
