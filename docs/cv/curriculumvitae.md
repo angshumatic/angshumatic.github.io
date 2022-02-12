@@ -37,7 +37,7 @@ __Jadavpur University__<br/>
 *Kolkata, India*<br/>
 BE in Mechanical Engineering<br/>
 `2014 - 2018`<br/>
-First Class (Honours) | GPA *8.82/10*
+First Class (Honours) | GPA *8.82/10*<br/>
 List of [relevant coursework](courseworkju.md)
 
 
