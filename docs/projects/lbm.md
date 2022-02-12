@@ -1,5 +1,9 @@
 <p align="center">
-<font size="4">**Applications of Lattice Boltzmann Method in Dynamic Modelling of Fluid Flows**<br/>*Angshuman Pal*<br/></font>
+  <font size="4"><b>Applications of Lattice Boltzmann Method in Dynamic Modelling of Fluid Flows</b><br/></font>
+</p>
+
+<p align="center">
+  <i>Angshuman Pal</i><br/>
 </p>
 
 <span style="font-family:Garamond;">Undergraduate final-year research project.<br/>**Advisor**: Prof. Himadri Chattopadhyay, Professor, Department of Mechanical Engineering, Jadavpur University<br/>**Specialization**: Heat Power<br/>**Duration**: `July 2017 - November 2017`<br/></span>
