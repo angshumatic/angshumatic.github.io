@@ -30,7 +30,8 @@ __XLRI Xavier School of Management__<br/>
 PGDM in Business Management<br/>
 `2019 - 2021`<br/>
 Major: *Decision Sciences & Operations* | GPA *6.057/8*<br/>
-Dissertation: [Industrial Sustainability & Risk Assessment of the Indian Steel Industry](https://drive.google.com/file/d/1SdgFJj9BdUdGbPTpntQTjGf_pzMKuviW/view?usp=sharing)
+Dissertation: [Industrial Sustainability & Risk Assessment of the Indian Steel Industry](https://drive.google.com/file/d/1SdgFJj9BdUdGbPTpntQTjGf_pzMKuviW/view?usp=sharing)<br/>
+[Relevant coursework](courseworkxlri.md)
 
 __Jadavpur University__<br/>
 *Kolkata, India*<br/>
