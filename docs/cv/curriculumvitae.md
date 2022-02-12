@@ -31,13 +31,14 @@ PGDM in Business Management<br/>
 `2019 - 2021`<br/>
 Major: *Decision Sciences & Operations* | GPA *6.057/8*<br/>
 Dissertation: [Industrial Sustainability & Risk Assessment of the Indian Steel Industry](https://drive.google.com/file/d/1SdgFJj9BdUdGbPTpntQTjGf_pzMKuviW/view?usp=sharing)<br/>
-[Relevant coursework](courseworkxlri.md)
+List of [relevant coursework](courseworkxlri.md)
 
 __Jadavpur University__<br/>
 *Kolkata, India*<br/>
 BE in Mechanical Engineering<br/>
 `2014 - 2018`<br/>
 First Class (Honours) | GPA *8.82/10*
+List of [relevant coursework](courseworkju.md)
 
 
 
