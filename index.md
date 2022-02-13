@@ -51,6 +51,6 @@ But work rarely restricts itself to limiting definitions. Beyond my professional
 </span>
 
 <span style="font-family:Courier New;">
-[LinkedIn](https://www.linkedin.com/in/angshumanpal11/) // [Scholar](https://scholar.google.com/citations?user=n_LYBhEAAAAJ) // [Github](https://github.com/angshumatic) // [Curriculum Vitae](https://angshumatic.github.io/docs/cv/curriculumvitae.html)<br/>
+[LinkedIn](https://www.linkedin.com/in/angshumanpal11/) // [Scholar](https://scholar.google.com/citations?user=n_LYBhEAAAAJ) // [Github](https://github.com/angshumatic) // [Curriculum Vitae](https://angshumatic.github.io/docs/cv/curriculumvitae.html)
 </span>
 ___
