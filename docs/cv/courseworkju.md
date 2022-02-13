@@ -1,5 +1,5 @@
 <p align="center">
-<font size="5"> <span style="font-family:Courier New;">Relevant Coursework: Jadavpur University</span> </font><br/>
+**Relevant Coursework: Jadavpur University**<br/>
 </p>
 
 <span style="font-family:Garamond;">**Degree**: Bachelor of Engineering (BE) in Mechanical Engineering<br/>**Area of concentration**: Production<br/>**Duration**: `2014 - 2018`<br/></span>
