@@ -1,5 +1,5 @@
 <p align="center">
-**Relevant Coursework: XLRI**<br/>
+  <b>Relevant Coursework: XLRI</b><br/>
 </p>
 
 <span style="font-family:Garamond;">**Degree**: Post Graduate Diploma in Business Management (PGDBM)<br/>**Area of concentration**: Decision Sciences & Operations<br/>**Duration**: `2019 - 2021`<br/></span>
