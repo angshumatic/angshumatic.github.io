@@ -4,7 +4,7 @@
 <font size="7"> <span style="font-family:Courier New;">Academic Projects</span> </font><br/>
 </p>
 
-1. **Industrial Sustainability and Risk Assessment of the Indian steel industry:**<br/>
+1. **Industrial Sustainability and Risk Assessment of the Indian Steel Industry**<br/>
 **Advisor**: Prof. Kalyan Bhaskar, *Associate Professor*, XLRI Xavier School of Management, Jamshedpur<br/>
 `September 2020 - December 2020`<br/>
 [Abstract](dissertation.md)<br/>
