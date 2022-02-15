@@ -6,7 +6,7 @@
 
 
 
-- Statistics and Mathematics
+- Statistical and Quantitative Methods
   1. Quantitative Techniques I
   2. Quantitative Techniques II
   3. Operations Research
