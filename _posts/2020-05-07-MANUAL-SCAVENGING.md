@@ -25,11 +25,15 @@ Samdish Bhatia, the host of the documentary film, is in many ways very similar t
 
 The work that 54-year-old Raju, an experienced sanitation worker in the Chembur drains, does is not skilled labour. Even after two decades of cleaning human sewage, he cannot claim to have achieved any physical expertise in the field, because the work is as rudimentary as separating a mess of polythene, broken glass, wood and an unbelievable assortment of reject material from the flow of dense thick sewer water and allowing the sludgy pitch black liquid to pass uninterrupted to its destination. The only "instrument" being used is a simple iron rake, which most of you must have seen and a few even used perhaps while tending to your gardens in case you have one. No points for guessing what Raju's "desi ghee parathas" are.
 
+<img src="(https://user-images.githubusercontent.com/98811198/154263004-7d66213c-db2b-4736-bad9-81913e7ae07b.png" width="500" align="centre">
+
 <p align="center"><i>"But with his attitude and tattoos, Sumit, who is roughly my age, seems like a complete misfit in this naala"</i><br/></p>
 
 As Samdish's gumboots fill to the brim with sewer water, other naala characters enjoying this little diversion from their ordinary shenanigans come to the fore. Over a cup of tea held in his ungloved hand, which Samdish says tastes the same both outside the drain and within, the story of these young 5th standard dropouts emerge. Through their rough smiles and amused expressions, it is not difficult to comprehend that they hate their jobs with passion and their regular lives outside the drains are forever tarnished by the very fact of their profession. The harshness of the reality that they do not see any route to escape this literal cesspool of human excreta is as strong as the stench in the drains which is sufficient to make any "ordinary" person puke.
 
 From the sheer weight of negativity and indifferent dejection in the eyes of the workers, surprises do not cease to emerge. Raju breaks into a monologue on how important his work is for maintaining the health and sanity of the city he serves, from Bandra to Chembur, from the heights of Antilla to the slums of Dharavi. Had the more educated masses understood what comes so naturally to this unschooled safai karamchari, there is a possibility that such documentaries need not have been made.
+
+<img src="(https://user-images.githubusercontent.com/98811198/154263091-5b2b9c9b-2823-4e4d-ac21-ebe8492557b4.png" width="500" align="centre">
 
 <p align="center"><i>"And second, in the financial capital of the fastest growing economy, why were humans still doing this work?"</i><br/></p>
 
@@ -37,11 +41,15 @@ By this stage of the documentary, the viewer is past the initial shock and revul
 
 BMC is not alone in deserving a lot of scrutiny. The Supreme Court's judgement reeks of lack of intention and willpower to rid this menace once and for all from India. The 2014 judgement is in itself filled with loopholes. While at one point the judgement dictates all manual scavenging work to be illegal, immediately afterwards a list of precautions is mentioned, which are to be followed in case of an "emergency". In a system where beyond the law is the norm, this glaring contradiction and apparent lack of willpower is ironic, almost laughable.
 
+<img src="(https://user-images.githubusercontent.com/98811198/154263184-eaaa20e7-1009-47ce-8c25-f0746a4d241b.png" width="500" align="centre">
+
 <p align="center"><i>"There are so many other poor people in our country but all of them don't do this for a living. There are many illiterate people in India but they don't do this work."</i><br/></p>
 
 And this is where the mess finally achieves what it has been threatening to do - it crosses over the boundaries of the sewers and enters the ordinary middle class households in the form of a monster that has affected the lives of not only men and women in this profession, but the sheer existence of generations of exploited, abused and helpless humans. I wonder how many people on LinkedIn are comfortable in venturing out of insulated corporate existence to discuss caste.
 
 Education adds value to an individual, and in return the individual starts valuing the education. Weirdly enough, this has its set of consequences. Acknowledging the utility of education in breaking social barriers is a no-brainer, but people's vision run the risk of turning myopic towards those issues which education does not necessarily eradicate. No, grossly improper though it may sound, ensuring education for all does not solve every social problem. Nothing exemplifies this unapparent reality more than the manual scavengers of India. Caste in India is rooted in the four varnas followed by a fifth layer which not even a part of the system - the Dalits. Professions being selected on the basis of caste was a reality in India until two centuries back. The hegemony (and enforcement) of certain castes over certain professions has been been moderately scratched but not nearly eradicated, since complete homogenisation of professions is still a distant dream. But thriving vestiges of occupational ostracising still live within the gutters of India, pushing a profession into systematic discrimination which is generations old. The numbers of poor and uneducated in India is booming, but beating the law of averages which would have meant proportional distribution of all castes in this hapless profession, every single manual scavenger in India is a Dalit.
+
+<img src="(https://user-images.githubusercontent.com/98811198/154263273-1ca13c13-e150-4807-8231-24359bc84fb5.png" width="500" align="centre">
 
 <p align="center"><i>Sunil Yadav<br/>BCom, BA (Journalism), MA (Globalization and Labour), MSW, MPhil, DSW<br/>PhD student, TISS Mumbai<br/>Safai karamchari, BMC</i><br/></p>
 
@@ -49,11 +57,15 @@ It is not possible to conjure up this surreal combination of elements into one p
 
 Education empowers people with grit, resilience and sheer force of will. Sunil has broken a chain of alcoholic and abusive ancestors to make sure his children get a better future. Even Raju, with no formal education, has made sure that his children have studied till 12th grade and support their resolve to not take up their father's profession. Education has the capacity to pull through individuals from this quicksand, but not the whole society. While Raju and Sumit might have succeeded, there would be thousands of other workers descending inside hell-on-earth septic tanks and manholes who will succumb to the weight of generations of exploitation. Education alone cannot pull them up, both literally and figuratively; lawmakers and administration need to step in.
 
+<img src="(https://user-images.githubusercontent.com/98811198/154263375-b45355c9-818e-49c0-9dfa-57baa06f1e77.png" width="500" align="centre">
+
 <p align="center"><i>"When I brought up the topic of going inside a manhole, even Raju, who was opposed to the idea of wearing gumboots, basic safety precaution, expressed his apprehensions flat out."</i><br/></p>
 
 The horrors for the viewers continue. I remember an open vat on a by-lane on my way to senior school which I would occasionally have to pass by. The stench was disgusting. I had assumed the vapours in Chembur's open drains were a thousand times more nauseating than that open vat. But now we were not talking about sickening smells, or vile surroundings, or spreading of diseases anymore. Manholes and storm drains can mean instant death for a manual scavenger.
 
 The combination of wastes residing in a manhole is metaphorically a chemical landmine. Decomposition of the various components of biological and non-biological waste can result in emission of noxious and poisonous gases which displace oxygen from the air - the life source for humans. A "candle test" is performed - an utterly rudimentary form of a procedure to determine the quantum of oxygen inside the drain - and then the scavenger descends inside to service the installation. Samdish notes the safety equipment brought to the site; it is only figured out later that the equipment are for the benefit of inspection personnel or one-time visitors like the ScoopWhoop Unscripted team. It is not difficult to figure out that fatalities are not the rarest of incidents.
+
+<img src="(https://user-images.githubusercontent.com/98811198/154263598-1810f422-06a9-49d5-9bc8-e3f5ae7ed56f.png" width="500" align="centre">
 
 <p align="center"><i>"There were two more workers with my father that day. All three of them passed away."</i><br/></p>
 
@@ -61,11 +73,15 @@ While Samdish quotes a different (much higher) figure, The Hindu reports that ma
 
 In categorising these deaths as "accidental", a huge disfavour is being done towards the community. Accidents occur due to unforeseen circumstances or uncontrollable errors in a process which is otherwise safe and manageable. When the occupation itself has been repeatedly been declared unfit and unsuitable, the problem is swept under the carpet disguised as "accidents". Without resorting to exaggeration, it is safe to say the workers are running the risk of their lives every moment they are inside the muck. The kin of the deceased then find themselves running pillar to post to receive the compensation they are entitled for.
 
+<img src="(https://user-images.githubusercontent.com/98811198/154263666-a81705ed-88c4-4274-a28d-099eb23e085d.png" width="500" align="centre">
+
 <p align="center"><i>"He has taken a dip inside."</i><br/></p>
 
 Even the documentary crew had not been prepared for what they were unearthing. A change in plan was necessitated, and Samdish was not to descend down a manhole for being too risky. Instead, a storm drain awaited him. And within the storm drain awaited half-submerged Sourav, who from his accent was clearly a Bengali like me, cleaning the sewers of a city far away from his home. When Samdish asks how he survives without falling sick, Sourav replies with a distant look, "Bhagwaan ki mitti se bana hua hu".
 
 While the canals of Chembur had afforded the luxury of at least having an open sky above, a storm drain, which carries drainage water to the ocean, is not very easily believable even upon viewing. A full body-suit with state-of-the-art PPE's along the lines of what sewer workers in other civilised nations use could not have made Samdish venture further down the circular gateways to hell. Meanwhile Sourav returned floating with a thick solid cake of refuses of the size of two dining tables.
+
+<img src="(https://user-images.githubusercontent.com/98811198/154263756-429981cc-5b80-4800-8f59-26cbbd4ab819.png" width="500" align="centre">
 
 <p align="center"><i>"...if we are mentally alert while working, then we won't be able to do this work."</i><br/></p>
 
@@ -73,11 +89,15 @@ While the canals of Chembur had afforded the luxury of at least having an open s
 
 These workers are all acutely aware of how they are trading their lives for this livelihood. Since the profession is handed on through families, they have all seen their forefathers succumb to early death under duress from inhuman working conditions compounded by alcohol and substance abuse. I could not make out if Raju was putting on his theatrical best when he told the camera that death is their only escape from this life; either way, maybe he was not far from the truth.
 
+<img src="(https://user-images.githubusercontent.com/98811198/154263837-6e7af113-2785-463b-a4cf-a0e521694977.png" width="500" align="centre">
+
 <p align="center"><i>"Everyone just seems to be passing the buck here; no one's taking the responsibility."</i><br/></p>
 
 Ah, familiar waters. Incompetence of authority - something we all can identify with, which is a pleasant change from death of sewer workers due to asphyxiation and methane poisoning. The team at ScoopWhoop Unscripted spent two weeks trying to get in touch with the relevant authority at the BMC who would be in a position to clarify the corporation's position on the situation. The intention was clear - since the raw footage shot for the documentary does not show the BMC in the brightest of lights (and Maharashtra is only fifth on the list of sanitation worker deaths, so they are surely not the only culpable civic body around), it is only fair to let them put forth their viewpoint upon the table. After two weeks of shuttling to and fro across departments, divisions, engineers and their PA's, the permission for an on-camera interview could not be attained - even the competent decision-making authority could not be identified.
 
 The problem is not BMC's alone to solve. Honestly, not a lot of people give a thought to the contents of our bathroom and kitchen wastes once they leave our houses. The problem is multi-dimensional. The society is having to deal with issues of dry latrines, absence of toilets within homes, wastewater treatment and an assortment of issues, all at the same time. The humanitarian aspect in manual scavenging is one particularly evil manifestation. In a thriving democracy the best way to get things done is to raise public awareness on it, so here is a humble attempt at doing my part.
+
+<img src="(https://user-images.githubusercontent.com/98811198/154263930-b4a228f9-d41f-48c2-b1bc-19cecaaca623.png" width="500" align="centre">
 
 <p align="center"><i>"And lets face it. They don't matter."</i><br/></p>
 
