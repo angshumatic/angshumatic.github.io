@@ -11,7 +11,7 @@
   3. Mathematics III (Differential Equations, Serieses and Transforms)
   4. Mathematics IV (Probability & Statistics, Linear Algebra)
   5. Numerical Analysis & Computer Programming
-  6. Industrial Statistics
+  6. Industrial Statistics<br/>
 
 
 - Production & Operations
@@ -20,7 +20,7 @@
   3. Advanced Production Processes
   4. Material Science & Engineering
   5. Machining Technology & Metrology
-  6. Engineering Economics & Costing
+  6. Engineering Economics & Costing<br/>
 
 
 - Mechanics & Design
@@ -29,4 +29,4 @@
   3. Kinematics & Dynamics of Machines
   4. Fluid Mechanics & Machinery
   5. Thermodynamics & Heat Transfer
-  6. Computer Aided Design
+  6. Computer Aided Design<br/>
