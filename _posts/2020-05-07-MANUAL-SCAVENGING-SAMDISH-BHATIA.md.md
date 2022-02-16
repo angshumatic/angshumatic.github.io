@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "And lets face it. They don't matter." - Manual Scavenging in India
+title: And lets face it. They don't matter. - Manual Scavenging in India
 date: 2020-05-07T20:20:46.000Z
 ---
 
