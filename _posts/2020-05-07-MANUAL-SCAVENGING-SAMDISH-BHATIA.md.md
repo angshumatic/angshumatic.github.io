@@ -41,7 +41,7 @@ By this stage of the documentary, the viewer is past the initial shock and revul
 
 BMC is not alone in deserving a lot of scrutiny. The Supreme Court's judgement reeks of lack of intention and willpower to rid this menace once and for all from India. The 2014 judgement is in itself filled with loopholes. While at one point the judgement dictates all manual scavenging work to be illegal, immediately afterwards a list of precautions is mentioned, which are to be followed in case of an "emergency". In a system where beyond the law is the norm, this glaring contradiction and apparent lack of willpower is ironic, almost laughable.
 
-![manualscavengingtitleimage]https://user-images.githubusercontent.com/98811198/154263184-eaaa20e7-1009-47ce-8c25-f0746a4d241b.png)
+![manualscavengingtitleimage](https://user-images.githubusercontent.com/98811198/154263184-eaaa20e7-1009-47ce-8c25-f0746a4d241b.png)
 
 <p align="center"><i>"There are so many other poor people in our country but all of them don't do this for a living. There are many illiterate people in India but they don't do this work."</i><br/></p>
 
