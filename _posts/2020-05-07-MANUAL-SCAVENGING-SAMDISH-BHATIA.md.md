@@ -81,7 +81,7 @@ Even the documentary crew had not been prepared for what they were unearthing. A
 
 While the canals of Chembur had afforded the luxury of at least having an open sky above, a storm drain, which carries drainage water to the ocean, is not very easily believable even upon viewing. A full body-suit with state-of-the-art PPE's along the lines of what sewer workers in other civilised nations use could not have made Samdish venture further down the circular gateways to hell. Meanwhile Sourav returned floating with a thick solid cake of refuses of the size of two dining tables.
 
-![manualscavengingtitleimage]https://user-images.githubusercontent.com/98811198/154263756-429981cc-5b80-4800-8f59-26cbbd4ab819.png)
+![manualscavengingtitleimage](https://user-images.githubusercontent.com/98811198/154263756-429981cc-5b80-4800-8f59-26cbbd4ab819.png)
 
 <p align="center"><i>"...if we are mentally alert while working, then we won't be able to do this work."</i><br/></p>
 
@@ -89,7 +89,7 @@ While the canals of Chembur had afforded the luxury of at least having an open s
 
 These workers are all acutely aware of how they are trading their lives for this livelihood. Since the profession is handed on through families, they have all seen their forefathers succumb to early death under duress from inhuman working conditions compounded by alcohol and substance abuse. I could not make out if Raju was putting on his theatrical best when he told the camera that death is their only escape from this life; either way, maybe he was not far from the truth.
 
-![manualscavengingtitleimage]https://user-images.githubusercontent.com/98811198/154263837-6e7af113-2785-463b-a4cf-a0e521694977.png)
+![manualscavengingtitleimage](https://user-images.githubusercontent.com/98811198/154263837-6e7af113-2785-463b-a4cf-a0e521694977.png)
 
 <p align="center"><i>"Everyone just seems to be passing the buck here; no one's taking the responsibility."</i><br/></p>
 
@@ -97,14 +97,12 @@ Ah, familiar waters. Incompetence of authority - something we all can identify w
 
 The problem is not BMC's alone to solve. Honestly, not a lot of people give a thought to the contents of our bathroom and kitchen wastes once they leave our houses. The problem is multi-dimensional. The society is having to deal with issues of dry latrines, absence of toilets within homes, wastewater treatment and an assortment of issues, all at the same time. The humanitarian aspect in manual scavenging is one particularly evil manifestation. In a thriving democracy the best way to get things done is to raise public awareness on it, so here is a humble attempt at doing my part.
 
-![manualscavengingtitleimage]https://user-images.githubusercontent.com/98811198/154263930-b4a228f9-d41f-48c2-b1bc-19cecaaca623.png)
+![manualscavengingtitleimage](https://user-images.githubusercontent.com/98811198/154263930-b4a228f9-d41f-48c2-b1bc-19cecaaca623.png)
 
 <p align="center"><i>"And lets face it. They don't matter."</i><br/></p>
 
 The worst of sufferings are undergone by those who cannot speak up for themselves. In an unenviable stranglehold of caste, poverty and social apathy, these manual scavengers are dying every week, within our own cities, but they are mostly not even registered into public memory. Among those who will have reached the conclusion of this article, I am considerably confident that we are all a part of the definition of "Indian privilege". We can afford to not know about Raju, Sunil and Sourav, because we have the prerogative to not get affected by their lives, or deaths. But each of us has the ability to contribute meaningfully to the fight against a social malaise so deep rooted. It is a simple matter of asking questions, raising awareness, and making sure you know where your shit is going.
 
- <iframe width="420" height="315"
-src="https://youtu.be/y7DfnI0nDUo">
-</iframe> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y7DfnI0nDUo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Samdish Bhatia](https://www.youtube.com/channel/UCOtQWL2z-tFbI-mgy_Rpdgg)
