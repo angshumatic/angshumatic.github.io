@@ -14,7 +14,9 @@ Cataclysmic disasters are not always global in the true sense of the term. Our f
 
 ## The Deep Divide of Inequality - Women in Natural Disasters
 
-Nothing sets the tone for discussing the impact of sociocultural inequities on the COVID pandemic better than a brief account of how women in general fare in natural disasters. The statistics are startling. In the 2004 Indian Ocean tsunamis, for every 3 men who lost their lives, 7 women lost theirs. In case of Cyclone Gorky in Bangladesh in 1991, the number rises to a shocking 1:14. The Nepal earthquakes in 2015 disproportionately impacted the livelihoods of single women in the country. In March 2021, the World Bank published a report rather brusquely titled "Gender Dynamics of Disaster Risk and Resilience" covering this matter. Socioeconomic inequalities are essentially man-made constructs, and so natural calamities should be immune to any such bias. But as the report points out, among two structurally different people-groups, the one which for centuries has been weakened through sustained and directed repression will feel the impact of a calamity the strongest. "Natural hazards are gender-neutral - but their impact is not". While it is not statistically sound to ascribe the entire skewedness to inequality of opportunity; the evidence supports the fact that in a lot of south Asian communities, it is a lot more difficult for a woman to go through the motions of daily life, wherever she may lie on the social and economic spectra, in comparison to a similarly placed man. In the aftermath of a natural calamity, the heightened challenge to live became insurmountable.
+Nothing sets the tone for discussing the impact of sociocultural inequities on the COVID pandemic better than a brief account of how women in general fare in natural disasters. The statistics are startling. In the 2004 Indian Ocean tsunamis, for every 3 men who lost their lives, 7 women lost theirs. In case of Cyclone Gorky in Bangladesh in 1991, the number rises to a shocking 1:14. The Nepal earthquakes in 2015 disproportionately impacted the livelihoods of single women in the country. In March 2021, the World Bank published a report rather brusquely titled "Gender Dynamics of Disaster Risk and Resilience" covering this matter. Socioeconomic inequalities are essentially man-made constructs, and so natural calamities should be immune to any such bias. But as the report points out, among two structurally different people-groups, the one which for centuries has been weakened through sustained and directed repression will feel the impact of a calamity the strongest. "Natural hazards are gender-neutral - but their impact is not".
+
+While it is not statistically sound to ascribe the entire skewedness to inequality of opportunity; the evidence supports the fact that in a lot of south Asian communities, it is a lot more difficult for a woman to go through the motions of daily life, wherever she may lie on the social and economic spectra, in comparison to a similarly placed man. In the aftermath of a natural calamity, the heightened challenge to live became insurmountable.
 
 ## Opportunity Gaps and COVID-19
 
@@ -46,10 +48,10 @@ Photo Credits: [Forbes](https://www.forbes.com/sites/joewalsh/2021/04/10/indias-
 
 ## Bibliography
 
-- Nepal quake impact on single women underlines need for equal land rights (Reuters)
-- Gender Dynamics of Disaster Risk and Resilience (World Bank)
-- More Women Die in Natural Disasters—Why? And What Can Be Done? (Brink News)
-- Covid deepened inequalities: wealth, education, gender (The Indian Express)
-- Analysis: The Social Inequities That COVID-19 Pandemic Exacerbated (Feminism in India)
-- 52% Indian women think it’s okay for their husbands to beat them. Only 42% men agree (The Print)
+- [Nepal quake impact on single women underlines need for equal land rights](https://www.reuters.com/article/uk-nepal-landrights-women-idUKKCN10L0G2) (Reuters)
+- [Gender Dynamics of Disaster Risk and Resilience]https://www.worldbank.org/en/topic/disasterriskmanagement/publication/gender-dynamics-of-disaster-risk-and-resilience) (World Bank)
+- [More Women Die in Natural Disasters—Why? And What Can Be Done?](https://www.brinknews.com/gender-and-disasters/) (Brink News)
+- [Covid deepened inequalities: wealth, education, gender](https://indianexpress.com/article/india/covid-deepened-inequalities-wealth-education-gender-7160341/) (The Indian Express)
+- [Analysis: The Social Inequities That COVID-19 Pandemic Exacerbated](https://feminisminindia.com/2021/02/23/social-inequality-covid-19-india/) (Feminism in India)
+- [52% Indian women think it’s okay for their husbands to beat them. Only 42% men agree](https://theprint.in/india/governance/more-women-than-men-think-wife-beating-is-justified/29808/) (The Print)
 
