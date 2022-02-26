@@ -49,7 +49,7 @@ Photo Credits: [Forbes](https://www.forbes.com/sites/joewalsh/2021/04/10/indias-
 ## Bibliography
 
 - [Nepal quake impact on single women underlines need for equal land rights](https://www.reuters.com/article/uk-nepal-landrights-women-idUKKCN10L0G2) (Reuters)
-- [Gender Dynamics of Disaster Risk and Resilience]https://www.worldbank.org/en/topic/disasterriskmanagement/publication/gender-dynamics-of-disaster-risk-and-resilience) (World Bank)
+- [Gender Dynamics of Disaster Risk and Resilience](https://www.worldbank.org/en/topic/disasterriskmanagement/publication/gender-dynamics-of-disaster-risk-and-resilience) (World Bank)
 - [More Women Die in Natural Disasters—Why? And What Can Be Done?](https://www.brinknews.com/gender-and-disasters/) (Brink News)
 - [Covid deepened inequalities: wealth, education, gender](https://indianexpress.com/article/india/covid-deepened-inequalities-wealth-education-gender-7160341/) (The Indian Express)
 - [Analysis: The Social Inequities That COVID-19 Pandemic Exacerbated](https://feminisminindia.com/2021/02/23/social-inequality-covid-19-india/) (Feminism in India)
