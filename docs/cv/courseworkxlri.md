@@ -7,8 +7,8 @@
 
 
 - Statistical and Quantitative Methods
-  1. Quantitative Techniques I
-  2. Quantitative Techniques II
+  1. Quantitative Techniques I (Probability Theory, Discrete & Continuous Distributions)
+  2. Quantitative Techniques II (Bayesian Analysis, Statistical Inference)
   3. Operations Research
   4. Business Research Methods
 
