@@ -31,23 +31,23 @@ ___
 
 
 <span style="font-family:Garamond;">
-  I am a consultant by profession, currently working with the Advisory team at [PricewaterhouseCoopers (PwC) India](https://www.pwc.in/). I am a business graduate from [XLRI Xavier School of Management, Jamshedpur](https://www.xlri.ac.in/), with a major in Decision Sciences & Operations. I also have a degree in Mechanical Engineering from [Jadavpur University, Kolkata](http://www.jaduniv.edu.in/, Kolkata), and have priorly worked as an Operations Engineer with [The Linde Group](https://www.linde.in/en/index.html), in the chemicals manufacturing industry.<br/>
+  I am a consultant by profession, currently working with the Advisory team at [PricewaterhouseCoopers (PwC) India](https://www.pwc.in/). I am a business graduate from [XLRI Xavier School of Management, Jamshedpur](https://www.xlri.ac.in/), with a major in Decision Sciences & Operations. Prior to that, I have a degree in Mechanical Engineering from [Jadavpur University, Kolkata](http://www.jaduniv.edu.in/, Kolkata), and have worked as an Operations Engineer with [The Linde Group](https://www.linde.in/en/index.html) in the chemicals manufacturing industry.<br/>
 </span>
 
 <span style="font-family:Garamond;">
-  In my current role, I employ and manage technology in its various moods and dispositions to make tasks simpler and lives easier for businesses and their employees. But while technology excites me, mathematics on the other hand intrigues me. My academic interests lie in the fields of statistics, decision sciences, econometrics, and operations. I strongly believe in the potential of academic research in management sciences and STEM to contribute to lasting change in people's lives, thereby breaking the people-made wall separating them from the social sciences. Do drop an email if you want to collaborate or discuss about work.<br/>
+  In my current role, I employ and manage technology in its various dispositions to make tasks simpler and lives easier for businesses and their employees. My academic interests lie in the fields of decision sciences, operations, statistics, and econometrics. I believe it is very important to break the people-made walls separating academic research in the management sciences, social sciences, and STEM. Do drop an email if you want to collaborate or discuss.<br/>
 </span>
 
 <span style="font-family:Garamond;">
-But work rarely restricts itself to limiting definitions. Beyond my professional duties, I devote a few hours every week to pro-bono social impact creation as a Business Development Manager with [Impact Consulting, Kolkata](https://www.linkedin.com/company/ic-kolkata/), and when time permits I teach myself scientific coding using mathematical programming tools. I write on my [personal blog](https://angshumatic.github.io/archive.html) on matters that matter to me, contribute in English to a bilingual fiction-blog at [Aweবাক জলpun](https://awebaakjolpun.wordpress.com/), and post intermittently on Instagram as [@angshumatic](https://www.instagram.com/angshumatic/).<br/>
+Beyond my professional duties, I work pro-bono as a Business Development Manager with [Impact Consulting, Kolkata](https://www.linkedin.com/company/ic-kolkata/) towards social impact creation, and when time permits I teach myself scientific coding using mathematical programming tools. I write on my [personal blog](https://angshumatic.github.io/archive.html) on matters that matter to me, contribute to a bilingual fiction-blog at [Aweবাক জলpun](https://awebaakjolpun.wordpress.com/), and post intermittently on Instagram as [@angshumatic](https://www.instagram.com/angshumatic/).<br/>
 </span>
 
 <span style="font-family:Garamond;">
-  Once I have turned my devices off, I write for myself and for the world in two languages, and play two western classical instruments. Bengali literature keeps me happy, chess allows me to rewind, math memes entertain me, my voice on social change is normally quite audible, and my Spotify playlists are usually liked by those who share my palate and disposition.<br/>
+  Once I have turned my devices off, I write in two languages, and play two western classical instruments. Bengali literature keeps me happy, chess allows me to rewind, math memes entertain me, and my Spotify playlists are usually liked by those who share my palate and disposition.<br/>
 </span>
   
 <span style="font-family:Garamond;">
-  Thanks for dropping by, and have a great day!<br/>
+  Thanks for dropping by, and have an excellent rest of your day!<br/>
 </span>
 
 <span style="font-family:Courier New;">
