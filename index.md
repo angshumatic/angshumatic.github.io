@@ -1,6 +1,6 @@
 <p align="center">
 <font size="7"> <span style="font-family:Courier New;">Angshuman Pal</span> </font><br/>
-  <span style="font-family:Courier New;"> <strong> Email:</strong> angshumanpal11@gmail.com</span>
+  <span style="font-family:Courier New;"> <strong> Email:</strong> angshumanpal11[at]gmail[dot]com</span>
 </p>
 <br/>
 
