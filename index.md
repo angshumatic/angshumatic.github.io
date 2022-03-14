@@ -35,7 +35,7 @@ ___
 </span>
 
 <span style="font-family:Garamond;">
-  In my current role, I employ and manage technology in its various dispositions to make tasks simpler and lives easier for businesses and their employees. My academic interests lie in the fields of decision sciences, operations, statistics, and econometrics. I believe it is very important to break the people-made walls separating academic research in the management sciences, social sciences, and STEM. Do drop an email if you want to collaborate or discuss.<br/>
+  In my current role, I employ and manage technology in its various dispositions to make tasks simpler and lives easier for businesses and their employees. My academic interests lie in the fields of decision sciences, operations, statistics, and econometrics, and my research experience is in the area of statistical inference and quality management. Do drop an email if you want to collaborate or discuss.<br/>
 </span>
 
 <span style="font-family:Garamond;">
