@@ -15,7 +15,7 @@
 
 
 <span style="font-family:Garamond;">
-  I am a consultant by profession, currently working with the Advisory team at [PricewaterhouseCoopers (PwC) India](https://www.pwc.in/). I am a business graduate from [XLRI Xavier School of Management, Jamshedpur](https://www.xlri.ac.in/), with a major in Decision Sciences & Operations. Prior to that, I have a degree in Mechanical Engineering from [Jadavpur University, Kolkata](http://www.jaduniv.edu.in/), and have worked as an Operations Engineer with [The Linde Group](https://www.linde.in/en/index.html) in the chemicals manufacturing industry.<br/>
+  I am a consultant by profession, currently working with the Advisory team at [PricewaterhouseCoopers (PwC) India](https://www.pwc.in/). I am a business graduate from [XLRI Xavier School of Management, Jamshedpur](https://www.xlri.ac.in/), with a major in Decision Sciences & Operations. Prior to that, I have a degree in Mechanical Engineering from [Jadavpur University, Kolkata](http://www.jaduniv.edu.in/), after which I worked as an Operations Engineer with [The Linde Group](https://www.linde.in/en/index.html) in the chemicals manufacturing industry.<br/>
 </span>
 
 <span style="font-family:Garamond;">
