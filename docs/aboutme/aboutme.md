@@ -4,10 +4,7 @@
   <span style="font-family:Courier New;">
     <font size="5">About Me</font><br/>
   </span>
-</p>
-<br/>
-
-  
+</p>  
 
 
   
