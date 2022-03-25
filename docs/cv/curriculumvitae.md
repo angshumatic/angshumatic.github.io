@@ -111,6 +111,11 @@ __SPICMACAY, XLRI Chapter__<br/>
 `March 2020 - February 2021`<br/>
 Led a 16-member team as part of a global movement for promotion of Indian classical music, art & culture
 
+__Centre for Public Policy Research, XLRI__<br/>
+*Senior Executive*<br/>
+`March 2020 - February 2021`<br/>
+Part of the *Education, Health & Social Issues* research vertical; co-edited *Abhijnah* - XLRI's Public Policy magazine
+
 __ISHRAE Jadavpur University__<br/>
 *Chapter President*<br/>
 `August 2016 - April 2018`<br/>
