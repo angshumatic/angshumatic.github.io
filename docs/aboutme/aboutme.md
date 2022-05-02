@@ -18,11 +18,11 @@ I am a consultant by profession, currently working with the Advisory team at [Pr
 </span>
 
 <span style="font-family:Garamond;">
-Beyond my professional duties, I work pro-bono as a Business Development Manager with [Impact Consulting, Kolkata](https://www.linkedin.com/company/ic-kolkata/) towards social impact creation, and when time permits I teach myself scientific coding using mathematical programming tools. I write on my [personal blog](https://angshumatic.github.io/archive.html) on matters that matter to me, contribute to a bilingual fiction-blog at [Aweবাক জলpun](https://awebaakjolpun.wordpress.com/), and post intermittently on Instagram as [@angshumatic](https://www.instagram.com/angshumatic/).<br/>
+Beyond my professional duties, I write on my [personal blog](https://angshumatic.github.io/archive.html) on matters that matter to me, contribute to a bilingual fiction-blog at [Aweবাক জলpun](https://awebaakjolpun.wordpress.com/), and post intermittently on Instagram as [@angshumatic](https://www.instagram.com/angshumatic/).<br/>
 </span>
 
 <span style="font-family:Garamond;">
-  Once I have turned my devices off, I write in two languages, and play two western classical instruments. Bengali literature keeps me happy, chess allows me to rewind, math memes entertain me, and my Spotify playlists are usually liked by those who share my palate and disposition.<br/>
+  Once I have turned my devices off, I read and write in two languages, and play two western classical instruments. Bengali literature keeps me happy, chess allows me to rewind, math memes entertain me, and my Spotify playlists are usually liked by those who share my palate and disposition.<br/>
 </span>
   
 <span style="font-family:Garamond;">
