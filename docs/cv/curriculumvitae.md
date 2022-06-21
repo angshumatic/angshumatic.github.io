@@ -46,7 +46,7 @@ List of [relevant coursework](courseworkju.md)
 <font size="5"> <span style="font-family:Courier New;">Publications & Working Papers</span> </font>
 
 `2022`
-**Pal A** (2022) "[Political Choice under Asymmetry of Information: In Pursuit of the \textit{Homo economicus.]([https://www.sciencedirect.com/science/article/abs/pii/S1120179721003264](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4137465))"<br/>
+**Pal A** (2022) "[Political Choice under Asymmetry of Information: In Pursuit of the *Homo economicus*.]([https://www.sciencedirect.com/science/article/abs/pii/S1120179721003264](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4137465))"<br/>
 *SSRN Working Paper*
 
 `2021`
