@@ -29,7 +29,7 @@ __XLRI Xavier School of Management__<br/>
 *Jamshedpur, India*<br/>
 PGDM in Business Management<br/>
 `2019 - 2021`<br/>
-Major: *Decision Sciences & Operations* | GPA *6.057/8*<br/>
+Major: *Production, Operations & Decision Sciences (PODS)* | GPA *6.057/8*<br/>
 Dissertation: [Industrial Sustainability & Risk Assessment of the Indian Steel Industry](https://drive.google.com/file/d/1SdgFJj9BdUdGbPTpntQTjGf_pzMKuviW/view?usp=sharing)<br/>
 List of [relevant coursework](courseworkxlri.md)
 
@@ -38,7 +38,9 @@ __Jadavpur University__<br/>
 BE in Mechanical Engineering<br/>
 `2014 - 2018`<br/>
 First Class (Honours) | GPA *8.82/10*<br/>
+Undergraduate thesis: [Genetic Algorithm Based Optimization of Machining Parameters](https://drive.google.com/file/d/1NLoW8r8a_-SmLYdVhczwRz4kUO1cv8c1/view?usp=sharing)</br>
 List of [relevant coursework](courseworkju.md)
+
 
 
 
