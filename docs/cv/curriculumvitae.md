@@ -38,7 +38,7 @@ __Jadavpur University__<br/>
 BE in Mechanical Engineering<br/>
 `2014 - 2018`<br/>
 First Class (Honours) | GPA *8.82/10*<br/>
-Undergraduate thesis: [Genetic Algorithm Based Optimization of Machining Parameters](https://drive.google.com/file/d/1NLoW8r8a_-SmLYdVhczwRz4kUO1cv8c1/view?usp=sharing)</br>
+Undergraduate thesis: [Genetic Algorithm Based Optimization of Machining Parameters](https://drive.google.com/file/d/1NLoW8r8a_-SmLYdVhczwRz4kUO1cv8c1/view?usp=sharing)<br/>
 List of [relevant coursework](courseworkju.md)
 
 
