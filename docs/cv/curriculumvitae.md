@@ -13,13 +13,13 @@
 __PricewaterhouseCoopers (PwC) India__<br/>
 *Associate, Technology Consulting (Advisory)*<br/>
 `July 2021 - present`<br/>
-Business Analyst for government clients in the Defence Tech & Automation industry. Currently managing the processes of application stabilization & cybersecurity implementation on 8+ user modules on an app modernization project.<br/>
+Business Analyst for a government client on a defense campus automation project. Managed application stabilization & cybersecurity on 10 user modules on an app modernization program.<br/>
 
 
 __Linde India Limited__<br/>
 *O&M Engineer, Onsite Operations*<br/>
 `July 2018 - June 2019`<br/>
-Shift Operations Lead & Functional Head (Mechanical) at the 221 TPD ASU, Selaqui (Dehradun), India. Managed the production, planning & dispatch of cryogenic liquefied atmospheric gases worth INR 60M/month.<br/>
+Shift Operations Lead & Functional Head (Mechanical) at the 221 TPD ASU, Selaqui (Dehradun), India. Managed production, inventory & dispatch of cryogenic liquids worth INR 60M/month<br/>
 
 
 
@@ -43,7 +43,11 @@ List of [relevant coursework](courseworkju.md)
 
 
     
-<font size="5"> <span style="font-family:Courier New;">Publications</span> </font>
+<font size="5"> <span style="font-family:Courier New;">Publications & Working Papers</span> </font>
+
+`2022`
+**Pal A** (2022) "[Political Choice under Asymmetry of Information: In Pursuit of the \textit{Homo economicus.]([https://www.sciencedirect.com/science/article/abs/pii/S1120179721003264](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4137465))"<br/>
+*SSRN Working Paper*
 
 `2021`
 Pal B, **Pal A**, Bag S, et al. (2021) "[Comparative Performance Analysis of 2D and 3D Gamma Metrics for Patient Specific QA in VMAT using Octavius 4D with 2D-Array 1500.](https://www.sciencedirect.com/science/article/abs/pii/S1120179721003264)"<br/>
@@ -78,7 +82,7 @@ Project: *Capillary Dynamics in Soft Deformable Microchannels*
 <font size="5"> <span style="font-family:Courier New;">Skills</span> </font>
         
 Programming & Software: `R` `MATLAB` `SPSS` `Minitab` `Tableau`<br/>
-Technologies: `LaTeX` `Markdown` `GitHub` `Mendeley` `WordPress` `Azure DevOps`<br/>
+Technologies: `LaTeX` `Markdown` `GitHub` `Mendeley` `WordPress`<br/>
 Tools: `SPC` `Lean Six Sigma` `TQM` `Agile`
 
 
@@ -103,7 +107,7 @@ Essay: [Treatment of Water-Based Urban Wastes Using Natural and Constructed Wetl
     
 __Impact Consulting, Kolkata Hub__<br/>
 *Business Development Manager*<br/>
-`June 2021 - present`<br/>
+`June 2021 - June 2022`<br/>
 Client onboarding and project planning on 4+ SDG-centric social impact projects with startups and NGOs
 
 __SPICMACAY, XLRI Chapter__<br/>
