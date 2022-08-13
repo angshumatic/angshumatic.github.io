@@ -7,7 +7,7 @@
   
 <span style="font-family:Garamond;">
   Hello, and welcome to my world :) My name is Angshuman, and I live in Kolkata, India.<br/>
-  Here I accommodate all new ideas which show up at my door, by asking the old ones to [shift by one room each](https://youtu.be/OxGsU8oIWjY).<br/>
+  Here I accommodate all new ideas which show up at my door, by asking the old ones to [shift by one room each](https://youtu.be/OxGsU8oIWjY)..<br/>
 </span>
 
 
