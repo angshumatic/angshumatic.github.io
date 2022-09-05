@@ -3,16 +3,23 @@
 
 <p align="center">
 <font size="7"> <span style="font-family:Courier New;">Angshuman Pal</span> </font><br/>
-<span style="font-family:Courier New;">Consultant at PricewaterhouseCoopers (PwC) India</span>
+<span style="font-family:Courier New;">Research Associate at IIM Ahmedabad</span>
 </p>
 
 
 
 <font size="5"> <span style="font-family:Courier New;">Experience</span> </font>
 
+__Indian Institute of Management, Ahmedabad (IIMA)__<br/>
+*Research Associate, Centre for Transportation and Logistics*<br/>
+`September 2022 - Present`<br/>
+Working on a discretionary service facility location problem with stochastic demand, for optimized allocation of EV charging facilities (PI: Prof. Prahalad Venkateshan)<br/>
+
+
+
 __PricewaterhouseCoopers (PwC) India__<br/>
 *Associate, Technology Consulting (Advisory)*<br/>
-`July 2021 - present`<br/>
+`July 2021 - August 2022`<br/>
 Business Analyst for a government client on a defense campus automation project. Managed application stabilization & cybersecurity on 10 user modules on an app modernization program.<br/>
 
 
@@ -29,8 +36,7 @@ __XLRI Xavier School of Management__<br/>
 *Jamshedpur, India*<br/>
 PGDM in Business Management<br/>
 `2019 - 2021`<br/>
-Major: *Production, Operations & Decision Sciences (PODS)* | GPA *6.057/8*<br/>
-Dissertation: [Industrial Sustainability & Risk Assessment of the Indian Steel Industry](https://drive.google.com/file/d/1SdgFJj9BdUdGbPTpntQTjGf_pzMKuviW/view?usp=sharing)<br/>
+Major: *Production, Operations & Decision Sciences (PODS)* | GPA *6.057/8*<br/>/view?usp=sharing)<br/>
 List of [relevant coursework](courseworkxlri.md)
 
 __Jadavpur University__<br/>
