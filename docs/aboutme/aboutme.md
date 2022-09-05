@@ -10,12 +10,11 @@
   
 <img src="https://user-images.githubusercontent.com/98811198/158790820-7216828c-9aa6-4683-ba60-4473862b7484.jpg" loading = "eager" align = "right" width = "250" style="margin:20px 20px">
 <span style="font-family:Garamond;">
-I am a consultant by profession, currently working with the Advisory team at [PricewaterhouseCoopers (PwC) India](https://www.pwc.in/). I am a business graduate from [XLRI Xavier School of Management, Jamshedpur](https://www.xlri.ac.in/), with a major in Decision Sciences & Operations. Prior to that, I have a degree in Mechanical Engineering from [Jadavpur University, Kolkata](http://www.jaduniv.edu.in/), after which I worked as an Operations Engineer with [The Linde Group](https://www.linde.in/en/index.html) in the chemicals manufacturing industry.<br/>
+I am a Research Associate at the Centre for Transportation and Logistics (CTL) at Indian Institute of Management Ahmedabad (IIMA). I am currently working on a discretionary service facility location problem with stochastic demand, for optimized allocation of EV charging facilities under Prof. Prahalad Venkateshan at IIMA.<br/>
+  
+Prior to this, I have completed my PGDM in Business Management from [XLRI Xavier School of Management, Jamshedpur](https://www.xlri.ac.in/) in 2021 with a major in Decision Sciences & Operations, and my BE (Mech) from [Jadavpur University, Kolkata](http://www.jaduniv.edu.in/) in 2018. I have previously worked with [PricewaterhouseCoopers (PwC) India](https://www.pwc.in/) as a Technology Consultant, and as an Operations Engineer with [The Linde Group](https://www.linde.in/en/index.html) in the chemicals manufacturing industry.<br/>
 </span>
 
-<span style="font-family:Garamond;">
-  In my current role, I employ and manage technology in its various dispositions to make tasks simpler and lives easier for businesses and their employees. My academic interests lie in the fields of decision sciences, operations, statistics, and econometrics, and my research experience is in the area of statistical inference and quality management. Do drop an email if you want to collaborate or discuss.<br/>
-</span>
 
 <span style="font-family:Garamond;">
 Beyond my professional duties, I write on my [personal blog](https://angshumatic.github.io/archive.html) on matters that matter to me, contribute to a bilingual fiction-blog at [Aweবাক জলpun](https://awebaakjolpun.wordpress.com/), and post intermittently on Instagram as [@angshumatic](https://www.instagram.com/angshumatic/).<br/>
