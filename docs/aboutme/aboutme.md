@@ -27,6 +27,14 @@ Beyond my professional duties, I write on my [personal blog](https://angshumatic
   ```Sep 2022``` <b>(Employment)</b>: I joined the Centre for Transportation & Logistics (CTL) at the Indian Institute of Management Ahmedabad (IIMA) as a Research Associate. I will be working with Prof. Prahalad Venkateshan as my PI.<br/>
 </span>
 
+<span style="font-family:Garamond;">
+  ```Jul 2021``` <b>(Employment)</b>: I joined PricewaterhouseCoopers (PwC) India as an Associate in their Technology Consulting practice within the Advisory LoS.<br/>
+</span>
+
+<span style="font-family:Garamond;">
+  ```Mar 2021``` <b>(Graduation)</b>: I graduated from XLRI Jamshedpur in their PGDM (Business Management) program with a major in Production, Operations & Decision Sciences (PODS).<br/>
+</span>
+
 
 <span style="font-family:Courier New;">
 [LinkedIn](https://www.linkedin.com/in/angshumanpal11/) // [Scholar](https://scholar.google.com/citations?user=n_LYBhEAAAAJ) // [Github](https://github.com/angshumatic) // [Curriculum Vitae](https://angshumatic.github.io/docs/cv/curriculumvitae.html)
