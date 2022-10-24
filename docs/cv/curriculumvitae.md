@@ -99,7 +99,7 @@ Tools & Technologies: `SPSS` `Minitab` `LaTeX` `Markdown` `Obsidian` `Zotero` `M
 <font size="5"> <span style="font-family:Courier New;">Awards</span> </font>
 
 **Leader of Tomorrow**, SGS 2021<br/>
-*50th St Gallen Symposium, HSG Switzerland*<br/>
+*50th St Gallen Symposium, University of St Gallen, Switzerland*<br/>
 Essay: [Reciprocal altruism – An economist’s magic wand for building trust](https://angshumatic.github.io/2021/05/06/RECIPROCAL-ALTRUISM.html)
 
 **Student Delegate**, INAE Youth Conclave 2018<br/>
@@ -111,11 +111,6 @@ Essay: [Treatment of Water-Based Urban Wastes Using Natural and Constructed Wetl
 
 
 <font size="5"> <span style="font-family:Courier New;">Leadership Positions</span> </font>
-    
-__Impact Consulting, Kolkata Hub__<br/>
-*Business Development Manager*<br/>
-`June 2021 - June 2022`<br/>
-Client onboarding and project planning on 4+ SDG-centric social impact projects with startups and NGOs
 
 __SPICMACAY, XLRI Chapter__<br/>
 *Secretary*<br/>
@@ -137,7 +132,7 @@ Led the 50+ member students' chapter in building academia-industry collaboration
 
 <font size="5"> <span style="font-family:Courier New;">Test Scores</span> </font>
 
-`GRE: 327/340` `TOEFL: 115/120` `XAT '19: 99.26%ile` `GATE '18: 98.36%ile`
+`GRE: 327 (Q170 V157 W5.5)` `TOEFL: 113 (R30 L30 S28 W25)` `CAT: 99.06%ile` `GATE (ME): 98.36%ile`
 
 
 
