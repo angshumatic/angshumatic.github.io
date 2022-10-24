@@ -91,9 +91,7 @@ Project: *Capillary Dynamics in Soft Deformable Microchannels*
         
 Languages: `R` `MATLAB` `C++` `Python`<br/>
 IDE: `RStudio` `Visual Studio` `Jupyter Notebook` `CPLEX Studio`<br/>
-Software: `SPSS` `Minitab` `Tableau`<br/>
-Tools & Technologies: `LaTeX` `Markdown` `Zotero` `Mendeley` `Obsidian` `GitHub`<br/>
-
+Tools & Technologies: `SPSS` `Minitab` `LaTeX` `Markdown` `Obsidian` `Zotero` `Mendeley` `GitHub`<br/>
 
 
 
