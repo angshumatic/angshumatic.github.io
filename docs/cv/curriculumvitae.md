@@ -13,7 +13,7 @@
 __Indian Institute of Management, Ahmedabad (IIMA)__<br/>
 *Research Associate, Centre for Transportation and Logistics*<br/>
 `September 2022 - Present`<br/>
-Working on a discretionary service facility location problem with stochastic demand, for optimized allocation of EV charging facilities (PI: Prof. Prahalad Venkateshan)<br/>
+Working on a location optimization of discretionary service facilities with stochastic congestion contraints in urban transportation networks using mixed integer linear programming tools (PI: Prof. Prahalad Venkateshan)<br/>
 
 
 
@@ -36,7 +36,7 @@ __XLRI Xavier School of Management__<br/>
 *Jamshedpur, India*<br/>
 PGDM in Business Management<br/>
 `2019 - 2021`<br/>
-Major: *Production, Operations & Decision Sciences (PODS)* | GPA *6.057/8*<br/>/view?usp=sharing)<br/>
+Major: *Production, Operations & Decision Sciences (PODS)* | GPA *6.057/8*<br/>
 List of [relevant coursework](courseworkxlri.md)
 
 __Jadavpur University__<br/>
@@ -44,7 +44,7 @@ __Jadavpur University__<br/>
 BE in Mechanical Engineering<br/>
 `2014 - 2018`<br/>
 First Class (Honours) | GPA *8.82/10*<br/>
-Undergraduate Thesis: [Genetic Algorithm Based Optimization of Machining Parameters](https://drive.google.com/file/d/1NLoW8r8a_-SmLYdVhczwRz4kUO1cv8c1/view?usp=sharing)<br/>
+Undergraduate Thesis: Genetic Algorithm Based Optimization of Machining Parameters<br/>
 List of [relevant coursework](courseworkju.md)
 
 
@@ -89,9 +89,10 @@ Project: *Capillary Dynamics in Soft Deformable Microchannels*
 
 <font size="5"> <span style="font-family:Courier New;">Skills</span> </font>
         
-Programming & Software: `R` `MATLAB` `SPSS` `Minitab` `Tableau`<br/>
-Technologies: `LaTeX` `Markdown` `GitHub` `Mendeley` `WordPress`<br/>
-Tools: `SPC` `Lean Six Sigma` `TQM` `Agile`
+Languages: `R` `MATLAB` `C++` `Python`<br/>
+IDE: `RStudio` `Visual Studio` `Jupyter Notebook` `CPLEX Studio`<br/>
+Software: `SPSS` `Minitab` `Tableau`<br/>
+Tools & Technologies: `LaTeX` `Markdown` `Zotero` `Mendeley` `Obsidian` `GitHub`<br/>
 
 
 
