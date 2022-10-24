@@ -2,6 +2,20 @@
 
 
 
+<b>Recent Developments</b><br/>
+<span style="font-family:Garamond;">
+  ```Sep 2022``` <b>(Employment)</b>: I joined the Centre for Transportation & Logistics (CTL) at the Indian Institute of Management Ahmedabad (IIMA) as a Research Associate. I will be working with Prof. Prahalad Venkateshan as my PI.<br/>
+</span>
+
+<span style="font-family:Garamond;">
+  ```Jul 2021``` <b>(Employment)</b>: I joined PricewaterhouseCoopers (PwC) India as an Associate in their Technology Consulting practice within the Advisory LoS.<br/>
+</span>
+
+<span style="font-family:Garamond;">
+  ```Mar 2021``` <b>(Graduation)</b>: I graduated from XLRI Jamshedpur in their PGDM (Business Management) program with a major in Production, Operations & Decision Sciences (PODS).<br/>
+</span>
+
+
   
 <img src="https://user-images.githubusercontent.com/98811198/158790820-7216828c-9aa6-4683-ba60-4473862b7484.jpg" loading = "eager" align = "right" width = "0" style="margin:20px 20px">
 <span style="font-family:Garamond;">
@@ -20,19 +34,6 @@ Beyond my professional duties, I write on my [personal blog](https://angshumatic
   
 <span style="font-family:Garamond;">
   Thanks for dropping by, and have an excellent rest of your day!<br/>
-</span>
-
-<b>Recent Developments</b><br/>
-<span style="font-family:Garamond;">
-  ```Sep 2022``` <b>(Employment)</b>: I joined the Centre for Transportation & Logistics (CTL) at the Indian Institute of Management Ahmedabad (IIMA) as a Research Associate. I will be working with Prof. Prahalad Venkateshan as my PI.<br/>
-</span>
-
-<span style="font-family:Garamond;">
-  ```Jul 2021``` <b>(Employment)</b>: I joined PricewaterhouseCoopers (PwC) India as an Associate in their Technology Consulting practice within the Advisory LoS.<br/>
-</span>
-
-<span style="font-family:Garamond;">
-  ```Mar 2021``` <b>(Graduation)</b>: I graduated from XLRI Jamshedpur in their PGDM (Business Management) program with a major in Production, Operations & Decision Sciences (PODS).<br/>
 </span>
 
 
