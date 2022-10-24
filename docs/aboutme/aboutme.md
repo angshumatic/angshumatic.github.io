@@ -17,7 +17,7 @@
 </span>
 
 <span style="font-family:Garamond;">
-  ```May 2021``` <b>(Symposium)</b>: I attended the 50th St Gallen Symposium, University of St Gallen, Switzerland, as a Leader of Tomorrow.(LoT)<br/>
+  ```May 2021``` <b>(Symposium)</b>: I attended the 50th St Gallen Symposium, University of St Gallen, Switzerland, as a top-100 Leader of Tomorrow selected through the Global Essay Competition (GEC).<br/>
 </span>
 
 <span style="font-family:Garamond;">
