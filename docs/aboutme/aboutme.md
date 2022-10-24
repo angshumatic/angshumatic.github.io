@@ -36,7 +36,7 @@ I am a Research Associate at the Centre for Transportation and Logistics (CTL) a
 </span>
   
 <span style="font-family:Garamond;">
-I have completed my PGDM (Business Management) from [XLRI Xavier School of Management, Jamshedpur](https://www.xlri.ac.in/) in 2021 with a major in Decision Sciences & Operations, and my BE (Mechanical Engineering) from [Jadavpur University, Kolkata](http://www.jaduniv.edu.in/) in 2018. I have professional experience in the domains of consulting at [PricewaterhouseCoopers (PwC) India](https://www.pwc.in/) and in manufacturing at[Linde India Ltd](https://www.linde.in/en/index.html).<br/>
+I have completed my PGDM (Business Management) from [XLRI Xavier School of Management, Jamshedpur](https://www.xlri.ac.in/) in 2021 with a major in Decision Sciences & Operations, and my BE (Mechanical Engineering) from [Jadavpur University, Kolkata](http://www.jaduniv.edu.in/) in 2018. I have professional experience in consulting at [PricewaterhouseCoopers (PwC) India](https://www.pwc.in/) and in manufacturing at [Linde India Ltd](https://www.linde.in/en/index.html).<br/>
 </span>
 
 
