@@ -8,6 +8,10 @@
 </span>
 
 <span style="font-family:Garamond;">
+  ```Jul 2021``` <b>(Publication)</b>: Our journal article titled <i>"Comparative performance analysis of 2D and 3D gamma metrics for patient specific QA in VMAT using Octavius 4D with 2D-Array 1500"</i> was published in <i>Physica Medica</i>. This paper uses inferential statistics to evaluate the relative performance of three commercial tools used for Patient Specific Quality Assurance (PSQA) in radiation therapy.<br/>
+</span>
+
+<span style="font-family:Garamond;">
   ```Jul 2021``` <b>(Employment)</b>: I joined PricewaterhouseCoopers (PwC) India as an Associate in their Technology Consulting practice within the Advisory LoS.<br/>
 </span>
 
