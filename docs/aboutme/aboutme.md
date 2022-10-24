@@ -14,12 +14,9 @@ I have completed my PGDM (Business Management) from [XLRI Xavier School of Manag
 
 
 <span style="font-family:Garamond;">
-Beyond my professional duties, I write on my [personal blog](https://angshumatic.github.io/archive.html) on matters that matter to me, contribute to a bilingual fiction-blog at [Aweবাক জলpun](https://awebaakjolpun.wordpress.com/), and post intermittently on Instagram as [@angshumatic](https://www.instagram.com/angshumatic/).<br/>
+Beyond my professional duties, I write on my [personal blog](https://angshumatic.github.io/archive.html) on matters that matter to me, contribute to a bilingual fiction-blog at [Aweবাক জলpun](https://awebaakjolpun.wordpress.com/), and post intermittently on Instagram as [@angshumatic](https://www.instagram.com/angshumatic/). Once I have turned my devices off, I read and write in two languages, and play two western classical instruments. Bengali literature keeps me happy, chess allows me to rewind, and math memes entertain me.<br/>
 </span>
 
-<span style="font-family:Garamond;">
-  Once I have turned my devices off, I read and write in two languages, and play two western classical instruments. Bengali literature keeps me happy, chess allows me to rewind, math memes entertain me, and my Spotify playlists are usually liked by those who share my palate and disposition.<br/>
-</span>
   
 <span style="font-family:Garamond;">
   Thanks for dropping by, and have an excellent rest of your day!<br/>
