@@ -28,6 +28,7 @@
   ```Feb 2020``` <b>(Publication)</b>: Our journal article titled <i>"Retrospective study on performance of constancy check device in Linac beam monitoring using Statistical Process Control"</i> was published in <i>Reports of Practical Oncology and Radiotherapy</i>.<br/>
 </span>
 
+<b>Bio</b><br/>
   
 <img src="https://user-images.githubusercontent.com/98811198/158790820-7216828c-9aa6-4683-ba60-4473862b7484.jpg" loading = "eager" align = "right" width = "0" style="margin:20px 20px">
 <span style="font-family:Garamond;">
@@ -35,7 +36,7 @@ I am a Research Associate at the Centre for Transportation and Logistics (CTL) a
 </span>
   
 <span style="font-family:Garamond;">
-I have completed my PGDM (Business Management) from [XLRI Xavier School of Management, Jamshedpur](https://www.xlri.ac.in/) in 2021 with a major in Decision Sciences & Operations, and my BE (Mechanical Engineering) from [Jadavpur University, Kolkata](http://www.jaduniv.edu.in/) in 2018. I have previously worked with [PricewaterhouseCoopers (PwC) India](https://www.pwc.in/) as a Technology Consultant, and as an Operations Engineer with [The Linde Group](https://www.linde.in/en/index.html) in the chemicals manufacturing industry.<br/>
+I have completed my PGDM (Business Management) from [XLRI Xavier School of Management, Jamshedpur](https://www.xlri.ac.in/) in 2021 with a major in Decision Sciences & Operations, and my BE (Mechanical Engineering) from [Jadavpur University, Kolkata](http://www.jaduniv.edu.in/) in 2018. I have professional experience in the domains of consulting at [PricewaterhouseCoopers (PwC) India](https://www.pwc.in/) and in manufacturing at[Linde India Ltd](https://www.linde.in/en/index.html).<br/>
 </span>
 
 
@@ -50,5 +51,5 @@ Beyond my professional duties, I write on my [personal blog](https://angshumatic
 
 
 <span style="font-family:Courier New;">
-[LinkedIn](https://www.linkedin.com/in/angshumanpal11/) // [Scholar](https://scholar.google.com/citations?user=n_LYBhEAAAAJ) // [Github](https://github.com/angshumatic) // [Curriculum Vitae](https://angshumatic.github.io/docs/cv/curriculumvitae.html)
+[LinkedIn](https://www.linkedin.com/in/angshumanpal11/) // [Scholar](https://scholar.google.com/citations?user=n_LYBhEAAAAJ) // [Gitub](https://github.com/angshumatic) // [Curriculum Vitae](https://angshumatic.github.io/docs/cv/curriculumvitae.html)
 </span>
