@@ -3,12 +3,13 @@
 
 
 <b>Recent Developments</b><br/>
+
 <span style="font-family:Garamond;">
   ```Sep 2022``` <b>(Employment)</b>: I joined the Centre for Transportation & Logistics (CTL) at the Indian Institute of Management Ahmedabad (IIMA) as a Research Associate. I will be working with Prof. Prahalad Venkateshan as my PI.<br/>
 </span>
 
 <span style="font-family:Garamond;">
-  ```Jul 2021``` <b>(Publication)</b>: Our journal article titled <i>"Comparative performance analysis of 2D and 3D gamma metrics for patient specific QA in VMAT using Octavius 4D with 2D-Array 1500"</i> was published in <i>Physica Medica</i>. This paper uses inferential statistics to evaluate the relative performance of three commercial tools used for Patient Specific Quality Assurance (PSQA) in radiation therapy.<br/>
+  ```Nov 2021``` <b>(Publication)</b>: Our journal article titled <i>"Comparative performance analysis of 2D and 3D gamma metrics for patient specific QA in VMAT using Octavius 4D with 2D-Array 1500"</i> was published in <i>Physica Medica</i>.<br/>
 </span>
 
 <span style="font-family:Garamond;">
@@ -16,9 +17,16 @@
 </span>
 
 <span style="font-family:Garamond;">
-  ```Mar 2021``` <b>(Graduation)</b>: I graduated from XLRI Jamshedpur in their PGDM (Business Management) program with a major in Production, Operations & Decision Sciences (PODS).<br/>
+  ```May 2021``` <b>(Symposium)</b>: I attended the 50th St Gallen Symposium, University of St Gallen, Switzerland, as a Leader of Tomorrow.(LoT)<br/>
 </span>
 
+<span style="font-family:Garamond;">
+  ```Mar 2021``` <b>(Graduation)</b>: I graduated from XLRI Jamshedpur in the PGDM (Business Management) program with a major in Production, Operations & Decision Sciences (PODS).<br/>
+</span>
+
+<span style="font-family:Garamond;">
+  ```Feb 2020``` <b>(Publication)</b>: Our journal article titled <i>"Retrospective study on performance of constancy check device in Linac beam monitoring using Statistical Process Control"</i> was published in <i>Reports of Practical Oncology and Radiotherapy</i>.<br/>
+</span>
 
   
 <img src="https://user-images.githubusercontent.com/98811198/158790820-7216828c-9aa6-4683-ba60-4473862b7484.jpg" loading = "eager" align = "right" width = "0" style="margin:20px 20px">
