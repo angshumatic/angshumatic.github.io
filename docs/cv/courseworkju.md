@@ -2,7 +2,7 @@
 <b>Relevant Coursework: Jadavpur University</b><br/>
 </p>
 
-<span style="font-family:Garamond;">**Degree**: Bachelor of Engineering (BE) in Mechanical Engineering<br/>**Area of concentration**: Production<br/>**Duration**: `2014 - 2018`<br/></span>
+<span style="font-family:Garamond;">**Degree**: Bachelor of Engineering (BE) in Mechanical Engineering<br/>**Duration**: `2014 - 2018`<br/></span>
 
 
 - Mathematics and Quantitative Techniques
