@@ -76,7 +76,7 @@ __Nestlé India Limited__<br/>
 Management Intern<br/>
 *Dairy Business Unit*<br/>
 `April 2020 - June 2020`<br/>
-Campaign design for a sampling & activation project on an HFD brand
+Promotional campaign design for a sports-based energy drink brand
 
 __IIT Kharagpur__<br/>
 INAE Research Intern<br/>
@@ -115,17 +115,14 @@ Essay: [Treatment of Water-Based Urban Wastes Using Natural and Constructed Wetl
 __SPICMACAY, XLRI Chapter__<br/>
 *Secretary*<br/>
 `March 2020 - February 2021`<br/>
-Led a 16-member team as part of a global movement for promotion of Indian classical music, art & culture
 
 __Centre for Public Policy Research, XLRI__<br/>
 *Senior Executive*<br/>
 `March 2020 - February 2021`<br/>
-Part of the *Education, Health & Social Issues* research vertical; co-edited *Abhijnah* - XLRI's Public Policy magazine
 
 __ISHRAE Jadavpur University__<br/>
 *Chapter President*<br/>
 `August 2016 - April 2018`<br/>
-Led the 50+ member students' chapter in building academia-industry collaborations in the HVAC&R sector
 
 
 
