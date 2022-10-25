@@ -14,13 +14,11 @@
   6. Industrial Statistics<br/>
 
 
-- Production & Operations
+- Management & Operations
   1. Industrial Management
-  2. Operations Research
-  3. Advanced Production Processes
-  4. Material Science & Engineering
-  5. Machining Technology & Metrology
-  6. Engineering Economics & Costing<br/>
+  2. Engineering Economics & Costing
+  3. Operations Research
+  4. Advanced Production Processes<br/>
 
 
 - Mechanics & Design
@@ -29,4 +27,5 @@
   3. Kinematics & Dynamics of Machines
   4. Fluid Mechanics & Machinery
   5. Thermodynamics & Heat Transfer
-  6. Computer Aided Design<br/>
+  6. Material Science & Manufacturing
+  7. Computer Aided Design<br/>
